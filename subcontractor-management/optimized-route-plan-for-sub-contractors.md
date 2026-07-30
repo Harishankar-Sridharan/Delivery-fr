@@ -11,11 +11,11 @@ Cependant, avant que les sous-traitants puissent créer des itinéraires optimis
 
 3. Mettez à jour l’accès du sous-traitant en activant les droits Véhicules et Optimisation.
 
-<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_1FYZWoMSEd.png" alt=""><figcaption></figcaption></figure>
 
-4. Une fois ces autorisations accordées, les sous-traitants peuvent se connecter et utiliser les fonctionnalités d’optimisation d’itinéraires.
+3. Une fois ces autorisations accordées, les sous-traitants peuvent se connecter et utiliser les fonctionnalités d’optimisation d’itinéraires.
 
-<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_65iXU89krF.png" alt=""><figcaption></figcaption></figure>
 
 Lancer l’optimisation avec la connexion sous-traitant
 
@@ -23,11 +23,11 @@ Lancer l’optimisation avec la connexion sous-traitant
 2. Accédez à l’onglet Missions.
 3. Sélectionnez les missions à optimiser, cliquez sur le bouton Actions, puis choisissez Optimiser.
 
-<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_BSlHRdVJ1F.png" alt=""><figcaption></figcaption></figure>
 
 4. Définissez le périmètre de l’optimisation en sélectionnant la plage de dates, l’équipe et les véhicules, puis cliquez sur Optimiser.
 
-<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_yWuCoqeFrp.png" alt=""><figcaption></figcaption></figure>
 
 5. Lorsque le résultat vous convient, cliquez sur Arrêter et consultez le résultat.
 
@@ -35,7 +35,7 @@ Lancer l’optimisation avec la connexion sous-traitant
 
 6. Un récapitulatif de l’optimisation s’affiche. Cliquez sur Afficher la simulation pour analyser les résultats.
 
-<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_VJcX9jCeFY.png" alt=""><figcaption></figcaption></figure>
 
 Vous pouvez également cliquer sur Valider les itinéraires pour publier directement les résultats sans les examiner.
 
@@ -44,22 +44,20 @@ Vous pouvez également cliquer sur Valider les itinéraires pour publier directe
     * Sélectionnez les itinéraires à valider.
     * Ouvrez le **Actions** menu, puis cliquez sur **Valider**.
 
-    <figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (948).png" alt=""><figcaption></figcaption></figure>
 
 Confirmez en cliquant sur OK.
 
-<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (949).png" alt=""><figcaption></figcaption></figure>
 
 8. L’itinéraire est validé et une notification de confirmation s’affiche.
 
-<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (950).png" alt=""><figcaption></figcaption></figure>
 
 En bas de la fenêtre contextuelle, activez Publier dans l’application mobile si vous souhaitez partager l’itinéraire avec le conducteur.
-
-<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 Si des conflits sont listés, examinez-les. Pour continuer malgré tout, cliquez sur Forcer la validation.
 
 9. L’itinéraire validé est publié dans l’application mobile.
 
-<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (952).png" alt=""><figcaption></figcaption></figure>
