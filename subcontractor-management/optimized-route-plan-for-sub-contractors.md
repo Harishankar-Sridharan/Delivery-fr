@@ -7,7 +7,7 @@ Cependant, avant que les sous-traitants puissent créer des itinéraires optimis
 1. Accédez au module Configuration.
 2. Ouvrez la section Gérer le profil utilisateur.
 
-<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_qksuB1bsQW.png" alt=""><figcaption></figcaption></figure>
 
 3. Mettez à jour l’accès du sous-traitant en activant les droits Véhicules et Optimisation.
 
