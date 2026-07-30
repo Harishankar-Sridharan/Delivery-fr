@@ -72,12 +72,12 @@ Les créneaux proposés sont classés selon la notation par étoiles
 
 L’utilisateur peut choisir n’importe lequel des créneaux proposés et cliquer sur le bouton « Choisir » pour soit créer un nouveau planning de tournée pour le créneau sélectionné (si aucune tournée n’est déjà planifiée dans l’arrière-bureau à cette date et heure), soit ajouter la mission à un planning de tournée existant.
 
-<figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (959).png" alt=""><figcaption></figcaption></figure>
 
 Une fois le créneau réservé avec succès, une notification apparaîtra dans l’arrière-bureau.
 
-<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (960).png" alt=""><figcaption></figcaption></figure>
 
 Retournez à l’onglet Missions pour confirmer que la tournée a été créée ou mise à jour pour la date et l’heure sélectionnées.
 
-<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (961).png" alt=""><figcaption></figcaption></figure>
