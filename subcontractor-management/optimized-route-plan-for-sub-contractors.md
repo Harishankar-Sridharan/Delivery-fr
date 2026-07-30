@@ -29,28 +29,24 @@ Lancer l’optimisation avec la connexion sous-traitant
 
 <figure><img src="../.gitbook/assets/msedge_yWuCoqeFrp.png" alt=""><figcaption></figcaption></figure>
 
-5. Lorsque le résultat vous convient, cliquez sur Arrêter et consultez le résultat.
-
-<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
-
-6. Un récapitulatif de l’optimisation s’affiche. Cliquez sur Afficher la simulation pour analyser les résultats.
+5. Un récapitulatif de l’optimisation s’affiche. Cliquez sur Afficher la simulation pour analyser les résultats.
 
 <figure><img src="../.gitbook/assets/msedge_VJcX9jCeFY.png" alt=""><figcaption></figcaption></figure>
 
 Vous pouvez également cliquer sur Valider les itinéraires pour publier directement les résultats sans les examiner.
 
-7.  Dans le panneau Itinéraires :
+6. Dans le panneau Itinéraires :
 
-    * Sélectionnez les itinéraires à valider.
-    * Ouvrez le **Actions** menu, puis cliquez sur **Valider**.
+* Sélectionnez les itinéraires à valider.
+* Ouvrez le **Actions** menu, puis cliquez sur **Valider**.
 
-    <figure><img src="../.gitbook/assets/image (948).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (948).png" alt=""><figcaption></figcaption></figure>
 
 Confirmez en cliquant sur OK.
 
 <figure><img src="../.gitbook/assets/image (949).png" alt=""><figcaption></figcaption></figure>
 
-8. L’itinéraire est validé et une notification de confirmation s’affiche.
+7. L’itinéraire est validé et une notification de confirmation s’affiche.
 
 <figure><img src="../.gitbook/assets/image (950).png" alt=""><figcaption></figcaption></figure>
 
@@ -58,6 +54,6 @@ En bas de la fenêtre contextuelle, activez Publier dans l’application mobile 
 
 Si des conflits sont listés, examinez-les. Pour continuer malgré tout, cliquez sur Forcer la validation.
 
-9. L’itinéraire validé est publié dans l’application mobile.
+8. L’itinéraire validé est publié dans l’application mobile.
 
 <figure><img src="../.gitbook/assets/image (952).png" alt=""><figcaption></figcaption></figure>
