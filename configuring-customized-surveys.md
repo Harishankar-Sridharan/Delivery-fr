@@ -67,7 +67,7 @@ Pour le sous-statut
 
 5. Lorsque vous êtes connecté en tant que transporteur ou livreur sous-sous-traitant, la tentative d’exécution d’une livraison/d’un enlèvement afficheral’enquête, qui devra être remplie avant de continuer.
 
-<figure><img src=".gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image 7 (2).png" alt=""><figcaption></figcaption></figure>
 
 Analyse des réponses à l’enquête
 
@@ -75,13 +75,13 @@ Analyse des réponses à l’enquête
 2. Sélectionnez Configurer les enquêtes dans la liste déroulante.
 3. Cliquez sur l’icône Cercle à côté de l’enquête que vous souhaitez analyser.
 
-<figure><img src=".gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/msedge_w97D0JLtwt.png" alt=""><figcaption></figcaption></figure>
 
 4. Choisissez la période d’analyse et cliquez sur Appliquer.
 5. Cliquez sur Charger pour afficher les résultats de la période sélectionnée.
 
-<figure><img src=".gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/msedge_EfOL71MD74.png" alt=""><figcaption></figcaption></figure>
 
 6. Consultez et analysez les réponses aux enquêtes en temps réel.
 
-<figure><img src=".gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Image 8.png" alt=""><figcaption></figcaption></figure>
