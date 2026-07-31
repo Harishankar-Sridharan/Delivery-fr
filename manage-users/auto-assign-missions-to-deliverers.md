@@ -27,15 +27,15 @@ Si l’utilisateur est lié à un véhicule, tous les paramètres de zone se syn
 
 Nomadia Delivery permet également, dans des cas exceptionnels tels qu’un arrêt maladie ou une indisponibilité soudaine, d’attribuer les utilisateurs et les véhicules à différentes zones. Dans ce type de situation, une erreur de synchronisation apparaîtra dans la section Générale du véhicule.
 
-<figure><img src="../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Image 12.png" alt=""><figcaption></figcaption></figure>
 
 Une fois que les utilisateurs et les véhicules sont correctement synchronisés avec leurs paramètres de zone, les missions sont automatiquement attribuées en fonction de l’alignement spatial. Si le point de retrait ou de livraison d’une mission se trouve dans une zone configurée, l’utilisateur ou le véhicule correspondant lié à cette zone est automatiquement attribué, et le champ Livreur planifié est mis à jour.
 
-<figure><img src="../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (974).png" alt=""><figcaption></figcaption></figure>
 
 Si plusieurs utilisateurs partagent la même zone, le système attribue la mission au premier utilisateur.
 
-<figure><img src="../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Image 13.png" alt=""><figcaption></figcaption></figure>
 
 Pendant l’optimisation, le planificateur dispose de trois options :
 
@@ -43,4 +43,4 @@ Pendant l’optimisation, le planificateur dispose de trois options :
 * Autoriser la prise en compte de tous les véhicules compatibles pour l’optimisation.
 * Ignorer les livreurs affectés automatiquement.
 
-<figure><img src="../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image 15.png" alt=""><figcaption></figcaption></figure>
