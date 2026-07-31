@@ -13,20 +13,17 @@ Suivez les étapes ci-dessous pour associer des zones aux utilisateurs et aux v�
 
 3. Cliquez sur le **crayon** icône à côté de l’utilisateur mobile souhaité.
 
-<figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_J4ptMOEI4U.png" alt=""><figcaption></figcaption></figure>
 
 4. Les utilisateurs disposant d’un accès mobile verront un onglet supplémentaire pour configurer les droits sur les zones. Cliquez sur **Agences** et **zones** pour configurer les affectations de zones.
 5. Déplacez les zones disponibles des agences associées vers le panneau de droite pour les attribuer à l’utilisateur.
-
-<figure><img src="../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
-
 6. Après avoir ajusté les paramètres de zone, cliquez sur **Enregistrer** pour confirmer les modifications.
 
-<figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (973).png" alt=""><figcaption></figcaption></figure>
 
 Si l’utilisateur est lié à un véhicule, tous les paramètres de zone se synchroniseront automatiquement avec ce véhicule.
 
-<figure><img src="../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_mi4B2IG1k9.png" alt=""><figcaption></figcaption></figure>
 
 Nomadia Delivery permet également, dans des cas exceptionnels tels qu’un arrêt maladie ou une indisponibilité soudaine, d’attribuer les utilisateurs et les véhicules à différentes zones. Dans ce type de situation, une erreur de synchronisation apparaîtra dans la section Générale du véhicule.
 
