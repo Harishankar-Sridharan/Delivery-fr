@@ -8,7 +8,7 @@ Suivez ces étapes pour configurer des enquêtes personnalisables dans Nomadia D
 2. Dans la liste déroulante, sélectionnez Configurer les enquêtes.
 3. Cliquez sur le bouton Actions et choisissez Créer pour configurer une nouvelle enquête.
 
-<figure><img src=".gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/msedge_yDgA35Jnas.png" alt=""><figcaption></figcaption></figure>
 
 Survey Creator / Form Builder est un outil de conception visuelle qui vous permet de créer des enquêtes et des formulaires. Les enquêtes peuvent être réalisées pour quatre cas d’utilisation spécifiques :
 
@@ -17,24 +17,24 @@ Survey Creator / Form Builder est un outil de conception visuelle qui vous perme
 * Exécution de mission – Remplie par le livreur pendant la livraison ou l’enlèvement. Suit les étapes de livraison et surveille l’avancement en temps réel.
 * Fin de tournée – Remplie par le livreur après son retour à l’agence à la fin de la journée. Fournit des informations sur l’état du véhicule après la tournée, utiles pour la maintenance et la planification opérationnelle.
 
-<figure><img src=".gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/msedge_QMKrVjzTFr.png" alt=""><figcaption></figcaption></figure>
 
 4. Saisissez l’identifiant et le nom de l’enquête, sélectionnez le type d’enquête dans la liste déroulante, définissez le statut sur Actif et activez l’option Stocker toutes les réponses pour enregistrer les résultats de l’enquête.
 
-<figure><img src=".gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/msedge_jgaYNJYC1o.png" alt=""><figcaption></figcaption></figure>
 
 5. Les enquêtes peuvent contenir une ou plusieurs pages. Chaque page peut inclure des panneaux et des questions. Les panneaux regroupent les questions et peuvent également contenir des panneaux imbriqués pour une organisation structurée.
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 6. Pour obtenir des निर्देश détaillés sur la création d’une enquête, consultez la documentation : [Créer une enquête simple](https://surveyjs.io/form-library/documentation/design-survey/create-a-simple-survey)
-
-<figure><img src=".gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
-
 7. Une fois l’enquête terminée, cliquez sur Enregistrer pour la créer.
 
-<figure><img src=".gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/msedge_naD6MPQ27R.png" alt=""><figcaption></figcaption></figure>
 
 8. La page Configurer les enquêtes affichera toutes les enquêtes créées dans le système.
 
-<figure><img src=".gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/msedge_goWYemlA0c.png" alt=""><figcaption></figcaption></figure>
 
 Configurations supplémentaires des enquêtes
 
@@ -43,15 +43,15 @@ Pour les sous-traitants
 1. Ouvrez l’onglet Sous-traitants dans Nomadia Delivery.
 2. Modifiez un sous-traitant en cliquant sur l’icône Crayon.
 
-<figure><img src=".gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/msedge_laN4TJ3GrI.png" alt=""><figcaption></figcaption></figure>
 
 3. Dans la section Mission, attribuez des enquêtes de début et de fin de tournée spécifiques à ce sous-sous-traitant, puis cliquez sur Enregistrer.
 
-<figure><img src=".gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/msedge_3uwFW50AYv.png" alt=""><figcaption></figcaption></figure>
 
 4. Lorsque vous êtes connecté en tant que sous-traitant, la création d’une mission via l’assistant affichera l’enquête de création de mission, qui devra être remplie avant de continuer.
 
-<figure><img src=".gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (970).png" alt=""><figcaption></figcaption></figure>
 
 Pour le sous-statut
 
@@ -59,11 +59,11 @@ Pour le sous-statut
 2. Sélectionnez Sous-statut dans la liste déroulante.
 3. Modifiez un sous-statut en cliquant sur l’icône Crayon.
 
-<figure><img src=".gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/msedge_GIggwrwWPB.png" alt=""><figcaption></figcaption></figure>
 
 4. Attribuez l’enquête d’exécution appropriée dans la liste déroulante et cliquez sur Enregistrer.
 
-<figure><img src=".gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/msedge_XixbJXasp2.png" alt=""><figcaption></figcaption></figure>
 
 5. Lorsque vous êtes connecté en tant que transporteur ou livreur sous-sous-traitant, la tentative d’exécution d’une livraison/d’un enlèvement afficheral’enquête, qui devra être remplie avant de continuer.
 

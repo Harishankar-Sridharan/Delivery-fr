@@ -19,7 +19,7 @@ Assurez-vous que votre fichier est dans l’un de ces formats pris en charge ava
 5. Sélectionnez un fichier valide depuis un système local.
 6. Les documents seront importés avec succès.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 <br>
