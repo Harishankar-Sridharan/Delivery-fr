@@ -4,26 +4,23 @@ Les organisations comptant des centaines ou des milliers d’utilisateurs peuven
 
 1. Accédez à Configuration
 
-<figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_J5zroGn13u.png" alt=""><figcaption></figcaption></figure>
 
 2. Dans la liste, sélectionnez Gérer les profils d’utilisateur.
 
-<figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_sA8ku38dhA.png" alt=""><figcaption></figcaption></figure>
 
 3. Cliquez sur la liste déroulante Actions et choisissez Ajouter
 
-<figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_K1JbDeSmga.png" alt=""><figcaption></figcaption></figure>
 
 * Saisissez le **Identifiant** et **Nom du profil.**
 * Activez **profils de sous-traitant (accès Web)** pour les utilisateurs sous-traitants et **profils de sous-sous-traitant** pour (Web ou Mobile) les utilisateurs sous-sous-traitants.
-
-<figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
-
 * Activer les **Rôles** et **Droits**.
 
-<figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_F91rpi4HqA.png" alt=""><figcaption></figcaption></figure>
 
 \
 Un message de confirmation indique que le profil utilisateur a été créé avec succès.
 
-<figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_ZU6GxXY2Yt.png" alt=""><figcaption></figcaption></figure>
