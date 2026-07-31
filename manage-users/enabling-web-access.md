@@ -30,31 +30,25 @@
   * Pour modifier des rôles ou des droits d’accès, les modifications doivent être apportées dans la **configuration du profil**.
 
 5. Activer ou désactiver **l’accès web** selon les besoins et sélectionnez le **Nom du sous-traitant**le cas échéant.
-
-<figure><img src="../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
-
 6. Cliquez sur **Enregistrer**. Un e-mail de notification est envoyé à l’utilisateur.
 
-<figure><img src="../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_hkdbEp2QGe.png" alt=""><figcaption></figcaption></figure>
 
 7. Ouvrez l’e-mail et cliquez sur le lien fourni pour définir le mot de passe.
 
-<figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image 10 (2).png" alt=""><figcaption></figcaption></figure>
 
 8. Saisissez vos **adresse e-mail** et cliquez sur **Envoyer le code de vérification.**
 
 <figure><img src="../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
 
 9. Saisissez le code de vérification reçu et cliquez sur **Vérifier le code**.
-
-<figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
-
 10. Cliquez sur **Continuer**.
 
-<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (971).png" alt=""><figcaption></figcaption></figure>
 
-11. Saisissez le **nouveau mot de passe** et confirmez-le. Pour plus d’informations sur la politique de mot de passe, reportez-vous au lien « **Politique de mot de passe** pour l’accès web »
-12. Cliquez sur **Continuer**.
+9. Saisissez le **nouveau mot de passe** et confirmez-le. Pour plus d’informations sur la politique de mot de passe, reportez-vous au lien « **Politique de mot de passe** pour l’accès web »
+10. Cliquez sur **Continuer**.
 
 <figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
 
