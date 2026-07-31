@@ -64,4 +64,4 @@ Le mot de passe doit inclure au moins trois des types de caractères suivants :
 * Chiffres (0–9)
 * Symboles (caractères spéciaux)
 
-<figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (972).png" alt=""><figcaption></figcaption></figure>
