@@ -6,12 +6,9 @@
 4. Choisir **Oui** ou **Non** pour importer les préférences de l’utilisateur, si nécessaire.
 5. Cliquez sur **OK**
 
-<figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_4C0wi0M7F7.png" alt=""><figcaption></figcaption></figure>
 
 6. Modifiez les détails de l’utilisateur si nécessaire.
-
-<figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
-
 7. Cliquez sur **Enregistrer** pour terminer le processus.
 
-<figure><img src="../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_Ida8uW5AtG (1).png" alt=""><figcaption></figcaption></figure>
