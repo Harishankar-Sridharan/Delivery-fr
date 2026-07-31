@@ -40,16 +40,16 @@
 
 8. Saisissez vos **adresse e-mail** et cliquez sur **Envoyer le code de vérification.**
 
-<figure><img src="../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/WQHVY4IXs6.png" alt=""><figcaption></figcaption></figure>
 
-9. Saisissez le code de vérification reçu et cliquez sur **Vérifier le code**.
-10. Cliquez sur **Continuer**.
+8. Saisissez le code de vérification reçu et cliquez sur **Vérifier le code**.
+9. Cliquez sur **Continuer**.
 
-<figure><img src="../.gitbook/assets/image (971).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_8guQbdOOxM.png" alt=""><figcaption></figcaption></figure>
 
-9. Saisissez le **nouveau mot de passe** et confirmez-le. Pour plus d’informations sur la politique de mot de passe, reportez-vous au lien « **Politique de mot de passe** pour l’accès web »
-10. Cliquez sur **Continuer**.
+10. Saisissez le **nouveau mot de passe** et confirmez-le. Pour plus d’informations sur la politique de mot de passe, reportez-vous au lien « **Politique de mot de passe** pour l’accès web »
+11. Cliquez sur **Continuer**.
 
-<figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/QJkZwTdzby.png" alt=""><figcaption></figcaption></figure>
 
 Le mot de passe a été modifié avec succès.
