@@ -44,6 +44,6 @@ Pour reprogrammer une mission, le client final doit suivre les étapes suivantes
 
 4. Une confirmation du créneau sélectionné est envoyée au client final.
 
-<figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Image 4.png" alt=""><figcaption></figcaption></figure>
 
-8. Le plan d’itinéraire est automatiquement mis à jour en fonction du créneau choisi par le client.
+4. Le plan d’itinéraire est automatiquement mis à jour en fonction du créneau choisi par le client.
