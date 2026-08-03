@@ -6,19 +6,19 @@ La fonctionnalité de recommandations de documents garantit que tous les documen
 
 1. Ouvrez l’application Nomadia Delivery et accédez à l’onglet Missions
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Cliquez sur Actions et sélectionnez Ajouter (Beta).
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Saisissez le nom de l’agence.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Cliquez sur l’icône en forme de crayon en haut à droite.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Activez le bouton Ajouter des documents et cliquez sur Enregistrer.
 

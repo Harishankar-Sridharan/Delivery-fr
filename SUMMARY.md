@@ -30,6 +30,7 @@
   * [Affectation automatique des missions aux livreurs](manage-users/auto-assign-missions-to-deliverers.md)
 * [Missions](missions/README.md)
   * [Ajout d'une mission](missions/adding-a-mission.md)
+  * [Journaux des missions](missions/journaux-des-missions.md)
   * [Sélectionner des missions sur la carte](missions/select-missions-from-the-map.md)
   * [Modifier en masse les données de mission](missions/bulk-edit-mission-data.md)
   * [Créer une mission « à effectuer en une seule fois »](missions/create-a-perform-at-once-mission.md)
