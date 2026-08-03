@@ -4,21 +4,21 @@ Pour activer l’héritage des champs personnalisés depuis le sous-traitant et 
 
 Cette fonctionnalité accélère la création des missions en héritant automatiquement des données des champs personnalisés, réduisant ainsi la saisie manuelle.
 
-1. Ouvrez l'application Nomadia Delivery et accédez à l'onglet **Configuration** .
+1. Ouvrez l'application Nomadia Delivery et accédez à l'onglet **Configuration.**&#x20;
 
-<figure><img src="../../.gitbook/assets/msedge_NVnsECZb3z.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_YRRhlFp1Dw.png" alt=""><figcaption></figcaption></figure>
 
 2. Sélectionnez « **Champs personnalisés** » dans la liste.
 
-<figure><img src="../../.gitbook/assets/msedge_WHNZTLQ1qY.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_mAcf9cYVUs.png" alt=""><figcaption></figcaption></figure>
 
 3. Sélectionnez l’onglet « **Missions** ».
 
-<figure><img src="../../.gitbook/assets/msedge_RJpfhNJqIB.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_L8FtPH0Cnc.png" alt=""><figcaption></figcaption></figure>
 
 4. Cliquez sur le bouton « **crayon** » pour modifier un champ personnalisé existant.
 
-<figure><img src="../../.gitbook/assets/msedge_zDcmah7zP0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_DTN9gvRwcD.png" alt=""><figcaption></figcaption></figure>
 
 5. Dans la liste déroulante « Peut être initialisé par », choisissez si le champ doit être hérité du sous-traitant ou de la liste d’adresses. Notez qu’un champ personnalisé peut être initialisé à partir des deux sources en même temps. Dans ce cas, la valeur de la liste d’adresses a priorité sur celle du sous-traitant.
 
