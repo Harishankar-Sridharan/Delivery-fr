@@ -6,68 +6,60 @@ La visibilité des missions était auparavant déterminée principalement par l�
 
 Pour configurer un champ personnalisé comme restriction de visibilité des missions, suivez les étapes ci-dessous.
 
-1. Ouvrez l’application Nomadia Delivery et accédez à la **Configuration** .
+1. Ouvrez l’application Nomadia Delivery et accédez à la **Configuration.**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (276).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/broken/files/A5vuXNU50HEBykQk6kWz" alt=""><figcaption></figcaption></figure>
 
 2. Dans la liste, sélectionnez **Champs personnalisés**.
 
-<figure><img src="../../.gitbook/assets/image (277).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/broken/files/jqdKlEG81yAsxdIKC6LM" alt=""><figcaption></figcaption></figure>
 
 3. Cliquez sur le **Missions** .
 
-<figure><img src="../../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/broken/files/0N6GYIUrmsmgG4tuVNAU" alt=""><figcaption></figcaption></figure>
 
 4. Cliquez sur le **crayon** icône pour modifier tout champ personnalisé existant.
 
 Un seul champ personnalisé peut être utilisé pour contrôler la visibilité des missions.
 
-<figure><img src="../../.gitbook/assets/image (279).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/broken/files/clu0EC1sLNp0PLz19UsV" alt=""><figcaption></figcaption></figure>
 
 Une option de bascule est disponible pour activer la visibilité des missions pour chaque champ personnalisé de mission ; toutefois, elle ne peut être activée que pour un seul champ à la fois.
 
 Remarque : la bascule est disponible uniquement pour les champs personnalisés de type Liste de valeurs.
 
-<figure><img src="../../.gitbook/assets/image (280).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/broken/files/VjZblp5HRhV38CqdglSM" alt=""><figcaption></figcaption></figure>
 
 5. Après avoir activé la bascule, cliquez sur **Enregistrer** pour appliquer les modifications.
 
-<figure><img src="../../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/broken/files/vjYD3CtwePTyQM1M2u1v" alt=""><figcaption></figcaption></figure>
 
 **Visibilité des missions basée sur un champ personnalisé pour les utilisateurs**
 
 1. Sélectionnez le **Gérer le** menu de la liste.
 
-<figure><img src="../../.gitbook/assets/image (282).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_lmDmJyigPs.png" alt=""><figcaption></figcaption></figure>
 
 2. Cliquez sur le **crayon** icône pour modifier l’utilisateur requis.
 
-<figure><img src="../../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_D1LxATwD9o.png" alt=""><figcaption></figcaption></figure>
 
 3. Ouvrez le **Rôles et droits** .
-
-<figure><img src="../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
-
 4. Dans la section Mission, une nouvelle liste déroulante Visibilité des missions est disponible, vous permettant de sélectionner la valeur associée à l’utilisateur sélectionné.
-
-<figure><img src="../../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>
-
-<br>
-
 5. Sélectionnez la valeur du champ personnalisé requise et cliquez sur **Enregistrer**.
 
-<figure><img src="../../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_E7l7UQ2ZDs (1).png" alt=""><figcaption></figcaption></figure>
 
-6. Connectez-vous en tant qu’utilisateur configuré et accédez à l’option **Missions** .
+3. Connectez-vous en tant qu’utilisateur configuré et accédez à l’option **Missions** .
 
-<figure><img src="../../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_qvZk5yH2fx.png" alt=""><figcaption></figcaption></figure>
 
-7. Cliquez sur le **Préfiltre** .
-8. Le préfiltre est automatiquement appliqué en fonction du champ personnalisé de visibilité des missions et de la valeur configurée dans les Rôles et droits de l’utilisateur.
+4. Cliquez sur le **Préfiltre** .
+5. Le préfiltre est automatiquement appliqué en fonction du champ personnalisé de visibilité des missions et de la valeur configurée dans les Rôles et droits de l’utilisateur.
 
-<figure><img src="../../.gitbook/assets/image (288).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_sCZQNJr4dD.png" alt=""><figcaption></figcaption></figure>
 
-9. Ce préfiltre de visibilité des missions est défini en lecture seule et ne peut pas être modifié par l’utilisateur. Pour supprimer ou modifier cette restriction, contactez l’administrateur.
-10. Le tableau des missions affichera uniquement les missions qui correspondent à la condition de visibilité des missions, en plus du préfiltre existant basé sur l’agence.
+6. Ce préfiltre de visibilité des missions est défini en lecture seule et ne peut pas être modifié par l’utilisateur. Pour supprimer ou modifier cette restriction, contactez l’administrateur.
+7. Le tableau des missions affichera uniquement les missions qui correspondent à la condition de visibilité des missions, en plus du préfiltre existant basé sur l’agence.
 
-<figure><img src="../../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_2eD7i7Z7N2.png" alt=""><figcaption></figcaption></figure>
