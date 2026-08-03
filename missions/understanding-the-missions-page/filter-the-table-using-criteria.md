@@ -12,4 +12,4 @@
 4. Saisissez la valeur requise pour la condition.
 5. Appuyez sur la **Entrée** touche pour appliquer le filtre.
 
-<figure><img src="../../.gitbook/assets/image (406).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_x1xCO5Dibh.png" alt=""><figcaption></figcaption></figure>
