@@ -14,7 +14,7 @@ Depuis la **Page Mission**
 
 1. Cliquez sur le **crayon** icône à côté de la mission que vous souhaitez modifier
 
-<figure><img src="../../.gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_4P6C8SLeUE.png" alt=""><figcaption></figcaption></figure>
 
 #### Description des paramètres de mission
 
