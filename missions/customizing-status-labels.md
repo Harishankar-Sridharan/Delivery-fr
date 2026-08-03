@@ -21,36 +21,36 @@ Auparavant, les statuts dans Nomadia Delivery étaient statiques et ne pouvaient
 
 Pour personnaliser les libellés de statut dans Nomadia Delivery, suivez les étapes ci-dessous.
 
-1. Ouvrez l’application Nomadia Delivery et accédez à la **Configuration** .
+1. Ouvrez l’application Nomadia Delivery et accédez à la **Configuration.**&#x20;
 
-<figure><img src="../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_gHrRkHUprc.png" alt=""><figcaption></figcaption></figure>
 
 2. Sélectionnez **Personnaliser les libellés de statut** dans la liste.
 
-<figure><img src="../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_4NNsGlPjWP.png" alt=""><figcaption></figcaption></figure>
 
 Cette page affiche tous les statuts dans Nomadia Delivery.
 
-<figure><img src="../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_q4Xpx6xWnF.png" alt=""><figcaption></figcaption></figure>
 
 3. Cliquez sur le **zone de texte** à côté du statut et mettez à jour le libellé pour qu’il corresponde à votre processus métier.
 
-<figure><img src="../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_MejlQkg6pC.png" alt=""><figcaption></figcaption></figure>
 
 4. Cliquez sur le **volet Autres langues** pour mettre à jour les libellés pour les utilisateurs dans différentes langues ou différents pays.
 
-<figure><img src="../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_8bFuzatR7r.png" alt=""><figcaption></figcaption></figure>
 
 5. Cliquez sur le **Sélecteur de couleur** pour modifier la couleur d’arrière-plan d’un libellé de statut. Veillez à choisir une couleur contrastée qui préserve la lisibilité du texte dans l’interface.
 
-<figure><img src="../.gitbook/assets/image (301).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_1NlvVjLKu7.png" alt=""><figcaption></figcaption></figure>
 
 6. Après avoir effectué les modifications, cliquez sur **Enregistrer** pour appliquer les mises à jour du libellé et de la couleur à la fois sur les applications web et mobiles.
 
-<figure><img src="../.gitbook/assets/image (302).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_hRXFbgSYin.png" alt=""><figcaption></figcaption></figure>
 
 7. Après avoir enregistré les modifications, retournez à la page de la mission pour voir les libellés et les couleurs mis à jour dans la zone de préfiltrage
 
-<figure><img src="../.gitbook/assets/image (303).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_ta7tCHlwbj.png" alt=""><figcaption></figcaption></figure>
 
 Cela offre une expérience fluide, alignée sur les besoins métier, aussi bien pour les planificateurs que pour les livreurs.
