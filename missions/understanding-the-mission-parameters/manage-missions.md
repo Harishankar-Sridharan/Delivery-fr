@@ -73,36 +73,34 @@ L’ajout d’une mission permet aux utilisateurs de créer une mission en séle
 1. Aller à **Missions**\
    \&#xNAN;_C’est le module principal où toutes les missions sont créées et gérées._
 
-<figure><img src="../../.gitbook/assets/image (383).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_JJC17nIIsi.png" alt=""><figcaption></figcaption></figure>
 
 2. Cliquez sur **Ajouter** depuis le **Actions** menu \&#xNAN;_Cela ouvre l’écran de création de mission._
 
-<figure><img src="../../.gitbook/assets/image (384).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_0IicBrIHZa.png" alt=""><figcaption></figcaption></figure>
 
 3. Sélectionnez **Type de mission**, **Agence**\
    \&#xNAN;_(Enlèvement → Livraison ou Livraison → Enlèvement selon votre besoin)_\
    \&#xNAN;_Cela définit le workflow et l’agence responsable._
 
-<figure><img src="../../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_0x1udLgLeh.png" alt=""><figcaption></figcaption></figure>
 
 4. Cliquez sur **Suivant** \&#xNAN;_Vous mène à l’étape de sélection de la configuration._
 
-<figure><img src="../../.gitbook/assets/image (348).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_c3uxaGfnlH.png" alt=""><figcaption></figcaption></figure>
 
-5.  Sélectionnez un **Configuration de la mission**:
+5. Sélectionnez un **Configuration de la mission**:
 
-    * Configuration par défaut
-    * Toute configuration personnalisée créée précédemment \&#xNAN;_Les configurations aident à préremplir ou à contrôler le comportement de la mission._
+* Configuration par défaut
+* Toute configuration personnalisée créée précédemment \&#xNAN;_Les configurations aident à préremplir ou à contrôler le comportement de la mission._
 
-    <figure><img src="../../.gitbook/assets/image (385).png" alt=""><figcaption></figcaption></figure>
-6. Entrée **détails obligatoires de la mission** selon le type de mission\
+<figure><img src="../../.gitbook/assets/msedge_4Doaj75evN.png" alt=""><figcaption></figcaption></figure>
+
+4. Entrée **détails obligatoires de la mission** selon le type de mission\
    \&#xNAN;_Les champs varieront selon qu’il s’agit d’un enlèvement ou d’une livraison._
+5. Cliquez sur **Ajouter** ou **Ajouter et imprimer** \&#xNAN;_Ajouter → Enregistre la mission_ \&#xNAN;_Ajouter et imprimer → Enregistre et imprime les détails de la mission_
 
-<figure><img src="../../.gitbook/assets/image (386).png" alt=""><figcaption></figcaption></figure>
-
-7. Cliquez sur **Ajouter** ou **Ajouter et imprimer** \&#xNAN;_Ajouter → Enregistre la mission_ \&#xNAN;_Ajouter et imprimer → Enregistre et imprime les détails de la mission_
-
-<figure><img src="../../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_rnMnGKTENs.png" alt=""><figcaption></figcaption></figure>
 
 ### Assistant de mission : un processus guidé étape par étape
 
@@ -112,43 +110,45 @@ Suivez ces étapes pour créer une mission à l’aide de l’assistant
 
 1. Ouvrez le système de gestion des livraisons, puis accédez à l’onglet « **Missions** »
 
-<figure><img src="../../.gitbook/assets/image (388).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_YhHbv3EjAJ.png" alt=""><figcaption></figcaption></figure>
 
 2. Cliquez sur le bouton « **Actions** « et choisissez « **Ajouter** » pour lancer l’assistant de création de mission
 
-<figure><img src="../../.gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_zckGFaFP0y.png" alt=""><figcaption></figcaption></figure>
 
 3. Sélectionnez le type de **mission** et **agence**
 
-<figure><img src="../../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_rGbpsqmNa9.png" alt=""><figcaption></figcaption></figure>
 
-4.  Détails de l’adresse d’enlèvement :
+4. Détails de l’adresse d’enlèvement :
 
-    * **Pour les missions d’enlèvement**: Saisissez les détails de l’adresse d’enlèvement tels que **ligne d’adresse, ville, état/province, code postal**, ainsi que toute instruction supplémentaire ou point de repère afin d’assurer une identification précise.
-    * **Pour les missions de livraison**: L’adresse de l’agence est utilisée par défaut.
+* **Pour les missions d’enlèvement**: Saisissez les détails de l’adresse d’enlèvement tels que **ligne d’adresse, ville, état/province, code postal**, ainsi que toute instruction supplémentaire ou point de repère afin d’assurer une identification précise.
+* **Pour les missions de livraison**: L’adresse de l’agence est utilisée par défaut.
 
-    <figure><img src="../../.gitbook/assets/image (391).png" alt=""><figcaption></figcaption></figure>
-5.  Détails de l’adresse de livraison :
+<figure><img src="../../.gitbook/assets/image 52 (1).png" alt=""><figcaption></figcaption></figure>
 
-    * **Pour les missions de livraison**: Saisissez les **détails de l’adresse de livraison**. Fournir des informations claires et précises garantit des livraisons réussies et ponctuelles.
-    * **Pour les missions d’enlèvement**: L’adresse de l’agence est utilisée par défaut.
+5. Détails de l’adresse de livraison :
 
-    <figure><img src="../../.gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
+* **Pour les missions de livraison**: Saisissez les **détails de l’adresse de livraison**. Fournir des informations claires et précises garantit des livraisons réussies et ponctuelles.
+* **Pour les missions d’enlèvement**: L’adresse de l’agence est utilisée par défaut.
+
+<figure><img src="../../.gitbook/assets/msedge_v8ddiguvpK.png" alt=""><figcaption></figcaption></figure>
+
 6. **Informations sur le colis (facultatif)**: À cette étape, fournissez des détails sur les colis, tels que **dimensions, poids, contenu**, ainsi que toute exigence particulière de manutention. Fournir des informations précises sur le colis contribue à garantir une bonne prise en charge et à préserver l’intégrité de la livraison.
 
-<figure><img src="../../.gitbook/assets/image (393).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_u5k5hzHUQo.png" alt=""><figcaption></figcaption></figure>
 
 7. **Définition des horaires d’ouverture du client (facultatif)**: Spécifiez les horaires d’ouverture du client afin de planifier les livraisons sur des créneaux appropriés. Cela garantit des horaires de livraison alignés sur la disponibilité du client, réduisant ainsi les risques de livraisons manquées ou de refus.
 
-<figure><img src="../../.gitbook/assets/image (394).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (992).png" alt=""><figcaption></figcaption></figure>
 
 8. **Ajouter une mission au système de gestion des livraisons**: Après avoir saisi toutes les informations requises, cliquez sur le bouton « **Ajouter** » pour enregistrer la mission dans le système de gestion des livraisons. La mission a été créée avec succès. Cet assistant simplifie le processus en guidant les utilisateurs étape par étape, en veillant à ce que toutes les informations requises soient saisies avec précision.
 
-<figure><img src="../../.gitbook/assets/image (395).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image 56.png" alt=""><figcaption></figcaption></figure>
 
 9. La mission a été créée avec succès. Cet assistant simplifie le processus en guidant les utilisateurs étape par étape, en veillant à ce que toutes les informations requises soient saisies avec précision.
 
-<figure><img src="../../.gitbook/assets/image (396).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_b8NVx8vpXU.png" alt=""><figcaption></figcaption></figure>
 
 ### Mapper les champs du fichier d’import de mission
 
@@ -160,18 +160,15 @@ Depuis la **Page Missions**
 2. Sélectionnez **Importer** dans le menu déroulant.
 3. Cliquez sur **Parcourir (Excel).**
 4. Sélectionnez le **Adresse** à partir des indicateurs de localisation
-
-<figure><img src="../../.gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
-
 5. Cliquez sur **Valider**
 
-<figure><img src="../../.gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (993).png" alt=""><figcaption></figcaption></figure>
 
-<br>
+
 
 6. Les champs d’adresse seront mappés avec succès
 
-<figure><img src="../../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image 61.png" alt=""><figcaption></figcaption></figure>
 
 ### Colorer les missions
 
@@ -180,13 +177,13 @@ Depuis la **Page Missions**
 1. Cliquez sur **Actions**.
 2. Sélectionnez **Coloration** dans le menu déroulant.
 
-<figure><img src="../../.gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_vuAK4MfPTB.png" alt=""><figcaption></figcaption></figure>
 
 3. Sélectionnez la condition appropriée parmi les suggestions.
 4. Choisissez le **Couleur**
 5. Cliquez sur **Enregistrer**
 
-<figure><img src="../../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_rB7EHrRyYK.png" alt=""><figcaption></figcaption></figure>
 
 6. La couleur sélectionnée sera appliquée avec succès.
 
