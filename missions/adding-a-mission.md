@@ -15,24 +15,23 @@ Pour organiser les groupes de champs personnalisés dans l’ordre souhaité :
     * Lancez l’application Nomadia Delivery.
     * Cliquez sur le **Configuration** onglet dans la barre de navigation supérieure.
 
-    <figure><img src="../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/msedge_tBdcf693iA.png" alt=""><figcaption></figcaption></figure>
 
-    **Accédez à Missions**
 
-    * Dans Configuration, sélectionnez l’ **Missions** .
-    * Cette section affiche tous les paramètres liés aux missions.
 
-    <figure><img src="../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
+**Accédez à Missions**
+
+* Dans Configuration, sélectionnez l’ **Missions** .
+* Cette section affiche tous les paramètres liés aux missions.
+
+<figure><img src="../.gitbook/assets/msedge_CdE4cKwwYf.png" alt=""><figcaption></figcaption></figure>
 
 **Cliquez sur Actions → Ajouter**
 
 * Cliquez sur le **Actions** bouton (en haut à droite ou dans la barre d’outils).
 * Sélectionnez **Ajouter** pour créer une nouvelle configuration de mission.
 
-<figure><img src="../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
-
-\
-**Choisir le type de mission et l’agence**
+<figure><img src="../.gitbook/assets/msedge_42vhZdusfI (1).png" alt=""><figcaption></figcaption></figure>
 
 * Sélectionnez le **Type de mission** approprié dans la liste déroulante.
 * Choisissez l’ **Agence** correspondante à laquelle la mission s’applique.
@@ -42,7 +41,7 @@ Pour organiser les groupes de champs personnalisés dans l’ordre souhaité :
 * Vérifiez les détails sélectionnés.
 * Cliquez sur **Suivant** pour accéder aux paramètres de configuration.
 
-<figure><img src="../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_OUrF9yJPwH.png" alt=""><figcaption></figcaption></figure>
 
 **Modifier la configuration de la mission**
 
@@ -59,33 +58,30 @@ Développez l’ **Champs personnalisés** accordéon :
 
 * Choisissez les champs requis (par ex., adresse, contact, consignes de livraison).
 
-<figure><img src="../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_NIN1bhLyWd.png" alt=""><figcaption></figcaption></figure>
 
 * Le formulaire de mission se met à jour automatiquement en fonction des champs sélectionnés.
+*   Utilisez le glisser-déposer pour :
 
-<figure><img src="../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+    * Réorganiser les groupes de champs personnalisés.
+    * Contrôler leur affichage dans le formulaire de création de mission.
 
-* Utilisez le glisser-déposer pour :
-  * Réorganiser les groupes de champs personnalisés.
-  * Contrôler leur affichage dans le formulaire de création de mission.
-
-<figure><img src="../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
-
+    <figure><img src="../.gitbook/assets/msedge_4fHLr2pNUw.png" alt=""><figcaption></figcaption></figure>
 *   Pour modifier l’ordre des champs au sein d’un groupe :
 
     * Activez les champs à l’aide de l’identifiant ou du nom.
 
-    <figure><img src="../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/msedge_TZtlqMaoRG.png" alt=""><figcaption></figcaption></figure>
 
 Configurer les champs obligatoires :
 
 * Basculez les champs obligatoires selon les besoins.
 
-<figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_EGNRoQmmSj.png" alt=""><figcaption></figcaption></figure>
 
 * Cliquez sur Enregistrer pour appliquer les modifications.
 
-<figure><img src="../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_Ja1Sm3AjC9.png" alt=""><figcaption></figcaption></figure>
 
 * La même procédure peut être utilisée pour activer des champs personnalisés pour les colis.
 
@@ -96,12 +92,9 @@ Pour regrouper les missions dans un conteneur :
 * Cliquez sur Actions → Ajouter (bêta).
 * Choisissez le type de mission et l’agence, puis cliquez sur Suivant.
 * Cliquez sur le bouton icône Crayon pour modifier la configuration de la mission.
-*   À partir de Regrouper vos colis:
-
-    * Oui: Regrouper automatiquement les missions lorsque plusieurs colis sont ajoutés.
-    * Non: Ne pas regrouper les missions.
-
-    <figure><img src="../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+* À partir de Regrouper vos colis:
+  * Oui: Regrouper automatiquement les missions lorsque plusieurs colis sont ajoutés.
+  * Non: Ne pas regrouper les missions.
 * Facultatif: Permettre à l’utilisateur de décider lors de la création de la mission.
 
 Si Oui est sélectionné :
@@ -109,11 +102,11 @@ Si Oui est sélectionné :
 * Choisissez le type de conteneur par défaut.
 * Seuls les conteneurs agrégables seront affichés
 
-<figure><img src="../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_7J0uoWIZzD.png" alt=""><figcaption></figcaption></figure>
 
 * Cliquez sur Enregistrer pour appliquer les modifications.
 
-<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_alQqWtudAa.png" alt=""><figcaption></figcaption></figure>
 
 Pour ajouter des documents juste après la création de la mission :
 
@@ -122,28 +115,25 @@ Pour ajouter des documents juste après la création de la mission :
 * Cliquez sur Actions → Ajouter (bêta).
 * Sélectionnez le type de mission et l’agence, puis cliquez sur Suivant.
 * Cliquez sur le bouton icône Crayon pour modifier la configuration.
-* Activez le bouton Ajouter des documents .
+* Activez le bouton Ajouter des documents.&#x20;
 
-<figure><img src="../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_0sNGXjlL1J.png" alt=""><figcaption></figcaption></figure>
 
 * Cliquez sur Enregistrer pour appliquer les modifications.
 
-<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
-
-\
-Si activé :
+<figure><img src="../.gitbook/assets/msedge_EwtlAC1WD0 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Le système invite à ajouter des documents immédiatement après la création de la mission.
 * Les documents peuvent être ajoutés depuis :
 * Ordinateur local
 * Bibliothèque de documents
 
-<figure><img src="../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Doc 1.png" alt=""><figcaption></figcaption></figure>
 
 * Cliquez sur Enregistrer pour joindre des documents.
 
-<figure><img src="../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Doc 2.png" alt=""><figcaption></figcaption></figure>
 
 * Les documents sont ajoutés avec succès à la mission.
 
-<figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (976).png" alt=""><figcaption></figcaption></figure>
