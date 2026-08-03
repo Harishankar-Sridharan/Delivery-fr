@@ -8,4 +8,4 @@
     * **Code-barres du colis et contenu**
     * **Coordonnées de contact, etc.**
 
-    <figure><img src="../../.gitbook/assets/image (409).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/msedge_5qDlEAL3WN.png" alt=""><figcaption></figcaption></figure>
