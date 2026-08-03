@@ -6,56 +6,54 @@ Cette fonctionnalité accélère la création des missions en héritant automati
 
 1. Ouvrez l'application Nomadia Delivery et accédez à l'onglet **Configuration** .
 
-<figure><img src="../../.gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_NVnsECZb3z.png" alt=""><figcaption></figcaption></figure>
 
 2. Sélectionnez « **Champs personnalisés** » dans la liste.
 
-<figure><img src="../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_WHNZTLQ1qY.png" alt=""><figcaption></figcaption></figure>
 
 3. Sélectionnez l’onglet « **Missions** ».
 
-<figure><img src="../../.gitbook/assets/image (265).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_RJpfhNJqIB.png" alt=""><figcaption></figcaption></figure>
 
 4. Cliquez sur le bouton « **crayon** » pour modifier un champ personnalisé existant.
 
-<figure><img src="../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_zDcmah7zP0.png" alt=""><figcaption></figcaption></figure>
 
 5. Dans la liste déroulante « Peut être initialisé par », choisissez si le champ doit être hérité du sous-traitant ou de la liste d’adresses. Notez qu’un champ personnalisé peut être initialisé à partir des deux sources en même temps. Dans ce cas, la valeur de la liste d’adresses a priorité sur celle du sous-traitant.
 
-<figure><img src="../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
-
-<br>
+<figure><img src="../../.gitbook/assets/msedge_ymYdf6GbZu.png" alt=""><figcaption></figcaption></figure>
 
 6. Cliquez sur le bouton « **Enregistrer** » pour appliquer les modifications.
 
-<figure><img src="../../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_MksR34l6bV.png" alt=""><figcaption></figcaption></figure>
 
 Depuis l’en-tête principal, cliquez sur « **Sous-traitants** » page
 
-<figure><img src="../../.gitbook/assets/image (269).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_8OotbAgtHe.png" alt=""><figcaption></figcaption></figure>
 
 Cliquez sur le bouton « **crayon** » pour modifier le sous-traitant.
 
-<figure><img src="../../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_YKAOy2IgeJ.png" alt=""><figcaption></figcaption></figure>
 
 Dans la section Champs personnalisés, tous les champs hérités par les missions depuis le sous-traitant sont répertoriés sous « **Champs personnalisés pour les missions.** »
 
-<figure><img src="../../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_Tl6fvAb9po.png" alt=""><figcaption></figcaption></figure>
 
 Cliquez sur le bouton « **Liste d’adresses** ».
 
-<figure><img src="../../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image 40.png" alt=""><figcaption></figcaption></figure>
 
 Dans la section Autres données, tous les champs hérités par les missions depuis l’adresse sont répertoriés sous « **Champs personnalisés pour les missions** ».
 
-<figure><img src="../../.gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Image 42.png" alt=""><figcaption></figcaption></figure>
 
 Sélectionnez une valeur pour le champ personnalisé dans le sous-traitant ou la liste d’adresses, puis cliquez sur « **Enregistrer** » pour appliquer les modifications.
 
-<figure><img src="../../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_7fXVZT2tuf.png" alt=""><figcaption></figcaption></figure>
 
 Lors de la création d’une mission, les champs personnalisés de la mission sont automatiquement renseignés en fonction du sous-traitant ou de l’adresse sélectionné(e) dans la liste d’adresses.
 
-<figure><img src="../../.gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (989).png" alt=""><figcaption></figcaption></figure>
 
 En initialisant automatiquement les champs, les utilisateurs n’ont pas besoin de ressaisir les mêmes données lors de la création de la mission, ce qui améliore la cohérence et l’efficacité.
