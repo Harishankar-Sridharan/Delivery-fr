@@ -39,10 +39,10 @@ Une fois la liste d’adresses créée, accédez à la **Mission** page.
 * L’autocomplétion suggère des adresses de la Liste d’adresses globale.
 * Si un sous-traitant est sélectionné lors de la création de la mission, l’autocomplétion combine les adresses du sous-traitant et les entrées de la Liste d’adresses globale dans une seule liste déroulante.
 
-<figure><img src="../.gitbook/assets/msedge_tbC6lofZS4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image 46 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Les éléments de la liste déroulante sont distingués par une icône et une infobulle, indiquant s’ils proviennent de la Liste d’adresses globale ou de la liste d’adresses du sous-traitant.
 
 Cela garantit une expérience fluide et unifiée lors de la saisie des adresses de mission.
 
-<figure><img src="../.gitbook/assets/image (991).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image 46 (2).png" alt=""><figcaption></figcaption></figure>
