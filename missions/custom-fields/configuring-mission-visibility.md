@@ -8,31 +8,31 @@ Pour configurer un champ personnalisé comme restriction de visibilité des miss
 
 1. Ouvrez l’application Nomadia Delivery et accédez à la **Configuration.**&#x20;
 
-<figure><img src="/broken/files/A5vuXNU50HEBykQk6kWz" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_YqU5ZOXQUs.png" alt=""><figcaption></figcaption></figure>
 
 2. Dans la liste, sélectionnez **Champs personnalisés**.
 
-<figure><img src="/broken/files/jqdKlEG81yAsxdIKC6LM" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_QjgLulwNgp.png" alt=""><figcaption></figcaption></figure>
 
-3. Cliquez sur le **Missions** .
+3. Cliquez sur le **Missions.**&#x20;
 
-<figure><img src="/broken/files/0N6GYIUrmsmgG4tuVNAU" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_VednIolFWR.png" alt=""><figcaption></figcaption></figure>
 
-4. Cliquez sur le **crayon** icône pour modifier tout champ personnalisé existant.
+3. Cliquez sur le **crayon** icône pour modifier tout champ personnalisé existant.
 
 Un seul champ personnalisé peut être utilisé pour contrôler la visibilité des missions.
 
-<figure><img src="/broken/files/clu0EC1sLNp0PLz19UsV" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_B8wk4SZenn.png" alt=""><figcaption></figcaption></figure>
 
 Une option de bascule est disponible pour activer la visibilité des missions pour chaque champ personnalisé de mission ; toutefois, elle ne peut être activée que pour un seul champ à la fois.
 
 Remarque : la bascule est disponible uniquement pour les champs personnalisés de type Liste de valeurs.
 
-<figure><img src="/broken/files/VjZblp5HRhV38CqdglSM" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_1B3Dt6QJma.png" alt=""><figcaption></figcaption></figure>
 
 5. Après avoir activé la bascule, cliquez sur **Enregistrer** pour appliquer les modifications.
 
-<figure><img src="/broken/files/vjYD3CtwePTyQM1M2u1v" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_pyjzrLUgwX.png" alt=""><figcaption></figcaption></figure>
 
 **Visibilité des missions basée sur un champ personnalisé pour les utilisateurs**
 
