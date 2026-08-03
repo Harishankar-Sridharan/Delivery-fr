@@ -4,19 +4,19 @@ Cette fonctionnalité permet d’insérer une mission de ramassage imprévue dan
 
 1. Créer un **Nouvelle mission de ramassage**
 
-<figure><img src="../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_LAFOQwnVnS.png" alt=""><figcaption></figcaption></figure>
 
 2. Sélectionnez le **Mission** dans le
 3. Cliquez sur le **Actions** menu de la liste.
 4. Sélectionnez **Ramassage d’urgence**.
 
-<figure><img src="../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_BVJ9xECSw5.png" alt=""><figcaption></figcaption></figure>
 
 5. Choisissez le point d’insertion du chauffeur :
 
 **Attribuer après**: ajoute le ramassage comme prochain arrêt.
 
-<figure><img src="../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Image 20.png" alt=""><figcaption></figcaption></figure>
 
 6. Attribuer à **la fin**: ajoute le ramassage à la fin de l’itinéraire actuel.
 7. Cliquez sur **Remplacer**
