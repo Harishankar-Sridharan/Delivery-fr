@@ -62,7 +62,7 @@
     * [Afficher les informations d’une mission](missions/understanding-the-missions-page/view-a-mission-information.md)
 * [Sous-traitants](contractors/README.md)
   * [Enregistrer un sous-traitantPage 1](contractors/register-a-contractor.md)
-  * [Créer un utilisateur sous-traitantPage 1](contractors/create-a-contractor-user.md)
+  * [Créer un utilisateur sous-traitant](contractors/create-a-contractor-user.md)
   * [Gérer la liste d’adresses](contractors/manage-address-list.md)
   * [Coloration et filtre](contractors/coloring-and-filter.md)
   * [Restrictions des sous-traitants](contractors/contractor-restrictions.md)
