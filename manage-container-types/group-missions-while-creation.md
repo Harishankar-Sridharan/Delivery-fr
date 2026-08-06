@@ -7,27 +7,24 @@ Cette fonctionnalité permet de regrouper plusieurs missions dans un seul conten
 **Regroupement via la duplication de mission**
 
 1. Accédez à l’onglet Mission.
-
-<figure><img src="../.gitbook/assets/image (519).png" alt=""><figcaption></figcaption></figure>
-
 2. Créez une nouvelle mission depuis le menu Actions
 
-<figure><img src="../.gitbook/assets/image (520).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_8aTU2tmjjP.png" alt=""><figcaption></figcaption></figure>
 
 3. Sélectionnez la mission et utilisez la fonctionnalité Dupliquer. La duplication peut être effectuée dans la section Colis. Si les détails du colis ne sont pas visibles, veuillez activer la section Colis dans la configuration de la mission.
 
-<figure><img src="../.gitbook/assets/image (521).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_UvyDdoccgq.png" alt=""><figcaption></figcaption></figure>
 
 4. Sélectionnez le type de conteneur souhaité (par exemple, palette, boîte) dans le menu déroulant.
 
-<figure><img src="../.gitbook/assets/image (522).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_HQ2bmRGMuS.png" alt=""><figcaption></figcaption></figure>
 
 5. Lorsque le système affiche « Regrouper dans un conteneur ? », sélectionnez Oui.
 
-<figure><img src="../.gitbook/assets/image (523).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_NSqsJ2fowc.png" alt=""><figcaption></figcaption></figure>
 
-6. Les conteneurs parent et les missions enfants ont été créés.
+5. Les conteneurs parent et les missions enfants ont été créés.
 
-<figure><img src="../.gitbook/assets/image (524).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_AVwqtUUHf8.png" alt=""><figcaption></figcaption></figure>
 
 Cette option est disponible dans la configuration du sous-statut.<br>
