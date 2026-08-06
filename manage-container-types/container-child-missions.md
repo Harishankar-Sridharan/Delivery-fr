@@ -7,39 +7,35 @@ Voici les étapes pour créer une mission conteneur :
 1. Ouvrez l’application Nomadia Delivery et accédez à l’onglet Mission.
 2. Cliquez sur Actions et sélectionnez Ajouter pour créer une nouvelle mission.
 
-<figure><img src="../.gitbook/assets/image (501).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_pSfsZ2ts4l.png" alt=""><figcaption></figcaption></figure>
 
 3. Créez une mission de livraison ou de collecte et utilisez la fonctionnalité de duplication de colis pour générer plusieurs missions pour la même adresse.
-
-<figure><img src="../.gitbook/assets/image (502).png" alt=""><figcaption></figcaption></figure>
-
 4. Cliquez sur Ajouter pour confirmer et créer les missions.
 
-<figure><img src="../.gitbook/assets/image (503).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_qEzQvMkhgO.png" alt=""><figcaption></figcaption></figure>
 
-\
 5\. Sélectionnez les missions que vous avez créées, puis cliquez sur Actions et choisissez Regrouper dans un conteneur.
 
-<figure><img src="../.gitbook/assets/image (504).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/OrBdUkSzhd.png" alt=""><figcaption></figcaption></figure>
 
 6. Une nouvelle mission conteneur sera générée, reprenant automatiquement l’adresse et les autres détails des missions sélectionnées.
 
-<figure><img src="../.gitbook/assets/image (505).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_nxngQ71SUT.png" alt=""><figcaption></figcaption></figure>
 
 7. Ouvrez la nouvelle mission conteneur et allez dans l’onglet Missions enfant pour voir la liste des missions regroupées à l’intérieur.
 8. Pour modifier les détails des missions enfants, cliquez sur l’icône crayon à côté d’elles.
 
-<figure><img src="../.gitbook/assets/image (506).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_kwLpPomsLX.png" alt=""><figcaption></figcaption></figure>
 
 9. Les utilisateurs peuvent affecter ou optimiser des missions en sélectionnant uniquement la mission conteneur parente. Pour filtrer spécifiquement les missions conteneur, utilisez la condition le conteneur parent est vide.
 
-<figure><img src="../.gitbook/assets/image (507).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_2bzvIKDGxr.png" alt=""><figcaption></figcaption></figure>
 
 Voici les étapes pour planifier ou optimiser des missions conteneur :
 
 1. Cliquez sur le bouton Actions pour affecter ou optimiser les missions conteneur sélectionnées.
 
-<figure><img src="../.gitbook/assets/image (508).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_DdcBJZrZII.png" alt=""><figcaption></figcaption></figure>
 
 2. Pour exiger le scan de toutes les missions enfants lors de la livraison dans l’application mobile Nomadia Delivery, activez le bouton bascule Scanner tous les éléments du conteneur dans les sous-statuts Livré/Non livré.
 
