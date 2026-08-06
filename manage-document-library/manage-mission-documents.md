@@ -11,11 +11,11 @@ Les documents « Gérer les missions » font spécifiquement référence aux gui
 5. Cliquez sur Importer
 6. Cliquez sur Parcourir l’ordinateur
 
-<figure><img src="../.gitbook/assets/image (527).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (998).png" alt=""><figcaption></figcaption></figure>
 
 7. Sélectionnez un fichier valide pour importer un document
 
-<figure><img src="../.gitbook/assets/image (528).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_I9zJEjh5Cs.png" alt=""><figcaption></figcaption></figure>
 
 Les documents de mission seront importés avec succès
 
@@ -24,20 +24,20 @@ Les documents de mission seront importés avec succès
 1. Accédez à l’onglet Missions.
 2. Repérez la mission souhaitée et cliquez sur l’icône en forme de crayon pour l’ouvrir en mode édition.
 
-<figure><img src="../.gitbook/assets/image (529).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_wuEUJx2zFE.png" alt=""><figcaption></figcaption></figure>
 
 3. Dans le menu de gauche, sélectionnez Documents.
 4. Cliquez sur Parcourir l’ordinateur pour ouvrir votre explorateur de fichiers.
 
-<figure><img src="../.gitbook/assets/image (530).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_kTsU60qq4t.png" alt=""><figcaption></figcaption></figure>
 
 5. Sélectionnez un document valide depuis votre système local à téléverser.
 
-<figure><img src="../.gitbook/assets/image (531).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_VN6xtpNI1B.png" alt=""><figcaption></figcaption></figure>
 
-6. Les documents de mission seront téléversés avec succès.
+5. Les documents de mission seront téléversés avec succès.
 
-<figure><img src="../.gitbook/assets/image (531).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_6uRj46jFPm.png" alt=""><figcaption></figcaption></figure>
 
 **Télécharger un document**
 
@@ -46,13 +46,11 @@ Les documents de mission seront importés avec succès
 3. Dans le menu de gauche, sélectionnez Documents.
 4. Cliquez sur Télécharger
 
-<figure><img src="../.gitbook/assets/image (532).png" alt=""><figcaption></figcaption></figure>
-
-<br>
+<figure><img src="../.gitbook/assets/msedge_AXXOr2ZVV0.png" alt=""><figcaption></figcaption></figure>
 
 5. Les documents de mission seront téléchargés avec succès.
 
-<figure><img src="../.gitbook/assets/image (533).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_xoN7os6aC3.png" alt=""><figcaption></figcaption></figure>
 
 **Supprimer un document**
 
@@ -61,12 +59,11 @@ Les documents de mission seront importés avec succès
 3. Dans le menu de gauche, sélectionnez Documents.
 4. Cliquez sur l’icône de la corbeille du document choisi
 
-<figure><img src="../.gitbook/assets/image (534).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_J92kbcqwLJ.png" alt=""><figcaption></figcaption></figure>
 
-\
 5\. Les documents de mission seront supprimés avec succès.
 
-<figure><img src="../.gitbook/assets/image (535).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_kG9LOs9ZLW.png" alt=""><figcaption></figcaption></figure>
 
 \
 \
