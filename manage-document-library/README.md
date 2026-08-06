@@ -8,18 +8,16 @@ Assurez-vous que votre fichier est dans l’un de ces formats pris en charge ava
 2. Cliquez sur le menu Configuration
 3. Sous Mes données, cliquez sur Bibliothèque de documents
 
-<figure><img src="../.gitbook/assets/image (525).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_eqv2DXCGk1.png" alt=""><figcaption></figcaption></figure>
 
 4. Cliquez sur Parcourir l’ordinateur pour téléverser le fichier
 
-<figure><img src="../.gitbook/assets/image (526).png" alt=""><figcaption></figcaption></figure>
-
-<br>
+<figure><img src="../.gitbook/assets/msedge_6haNLGkFye.png" alt=""><figcaption></figcaption></figure>
 
 5. Sélectionnez un fichier valide depuis un système local.
 6. Les documents seront importés avec succès.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_vS8jp306C0.png" alt=""><figcaption></figcaption></figure>
 
 \
 <br>
