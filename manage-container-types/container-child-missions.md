@@ -39,24 +39,24 @@ Voici les étapes pour planifier ou optimiser des missions conteneur :
 
 2. Pour exiger le scan de toutes les missions enfants lors de la livraison dans l’application mobile Nomadia Delivery, activez le bouton bascule Scanner tous les éléments du conteneur dans les sous-statuts Livré/Non livré.
 
-<figure><img src="../.gitbook/assets/image (509).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_0pnEYtEzo3.png" alt=""><figcaption></figcaption></figure>
 
 3. Une fois activé, l’application imposera le scan de chaque mission enfant à l’intérieur du conteneur. Le livreur pourra ensuite gérer le sous-statut des missions enfants individuelles, ce qui permettra une livraison/collecte complète ou partielle.
 
-<figure><img src="../.gitbook/assets/image (510).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Image 63 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-4. Toute mission partiellement livrée reste liée à la tournée pour une meilleure traçabilité.
+3. Toute mission partiellement livrée reste liée à la tournée pour une meilleure traçabilité.
 
-<figure><img src="../.gitbook/assets/image (511).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Image 70 (1).png" alt=""><figcaption></figcaption></figure>
 
-5. Pour consulter les journaux des missions enfants, cliquez sur l’icône crayon sur la mission conteneur, puis ouvrez l’onglet Missions enfant.
+4. Pour consulter les journaux des missions enfants, cliquez sur l’icône crayon sur la mission conteneur, puis ouvrez l’onglet Missions enfant.
 
-<figure><img src="../.gitbook/assets/image (512).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_VdUjVwPrig.png" alt=""><figcaption></figcaption></figure>
 
-6. Utilisez l’onglet Journal pour afficher les journaux des missions enfants. Activez le bouton bascule Afficher également les journaux du conteneur parent pour voir simultanément les journaux du conteneur et des missions enfants.
+5. Utilisez l’onglet Journal pour afficher les journaux des missions enfants. Activez le bouton bascule Afficher également les journaux du conteneur parent pour voir simultanément les journaux du conteneur et des missions enfants.
 
-<figure><img src="../.gitbook/assets/image (513).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image 90 (1).png" alt=""><figcaption></figcaption></figure>
 
-7. L’onglet Exécution affiche uniquement le statut de la mission conteneur pour les livraisons/collectes terminées et affiche le statut Non livré des missions enfants en cas de livraisons partielles.
+6. L’onglet Exécution affiche uniquement le statut de la mission conteneur pour les livraisons/collectes terminées et affiche le statut Non livré des missions enfants en cas de livraisons partielles.
 
-<figure><img src="../.gitbook/assets/image (514).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Image 95.png" alt=""><figcaption></figcaption></figure>
