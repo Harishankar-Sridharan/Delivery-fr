@@ -12,27 +12,25 @@ Pour simplifier l’intégration, Nomadia Delivery propose une collection de mod
 * Ils servent de solution de repli lorsqu’aucune configuration personnalisée n’est en place.
 * Bien qu’ils ne puissent pas être supprimés, ils peuvent être désactivés si nécessaire.
 
-<figure><img src="../.gitbook/assets/image (599).png" alt=""><figcaption></figcaption></figure>
-
 Suivez les étapes ci-dessous pour créer un modèle de notification par e-mail personnalisé :
 
 1. Ouvrez l’application Nomadia Delivery et accédez à l’onglet Configuration.
 2. Dans le menu déroulant, sélectionnez Configurer les messages sortants.
 3. Cliquez sur l’onglet Modèles d’e-mail.
 
-<figure><img src="../.gitbook/assets/image (600).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_qeDy66h640 (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Dans le tableau, cliquez sur le bouton Actions et sélectionnez Ajouter.
 
-<figure><img src="../.gitbook/assets/image (601).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_h42XvgV8jr.png" alt=""><figcaption></figcaption></figure>
 
 5. Une liste des modèles disponibles s’affichera. Choisissez-en un à personnaliser (par exemple, Fenêtre horaire pour communiquer).
 
-<figure><img src="../.gitbook/assets/image (602).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_TDCpVB0TOO.png" alt=""><figcaption></figcaption></figure>
 
 6. Dans la fenêtre contextuelle, personnalisez et configurez le message selon vos besoins. Sélectionnez un type de configuration pour associer le modèle à la mission.
 7. Activez le modèle et enregistrez vos modifications.
 
-<figure><img src="../.gitbook/assets/image (603).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_4yQzF1LbUS.png" alt=""><figcaption></figcaption></figure>
 
 Répétez le processus pour configurer d’autres notifications et les associer aux types de configuration appropriés.
