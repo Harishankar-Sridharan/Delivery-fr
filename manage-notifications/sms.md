@@ -9,6 +9,6 @@
 5. Sous Configurer les SMS sortants vers les clients, activez le service de SMS sortants pour les clients
 6. Cliquez sur Enregistrer
 
-<figure><img src="../.gitbook/assets/image (598).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_PKhjMP8DWO.png" alt=""><figcaption></figcaption></figure>
 
 **Remarque**: Les notifications SMS sont fournies comme service supplémentaire.<br>
