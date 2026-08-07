@@ -7,11 +7,11 @@ Suivez ces étapes pour gérer les modèles de documents :
 1. Ouvrez l'application Nomadia Delivery et accédez à l'onglet **Configuration** .
 2. Dans le menu déroulant, sélectionnez **Modèles de documents.**
 
-<figure><img src="../.gitbook/assets/image (560).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_oLxIUCzari.png" alt=""><figcaption></figcaption></figure>
 
 La page affichera tous les modèles par défaut que Nomadia Delivery utilise pour générer des PDF, notamment les feuilles de tournée, les feuilles de chargement, les eCMR, les rapports de mission, les feuilles d’autocollants et les rapports de visite.
 
-<figure><img src="../.gitbook/assets/image (561).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_gv2zyWwLhM.png" alt=""><figcaption></figcaption></figure>
 
 Les modèles par défaut de Nomadia Delivery sont activés par défaut et ne peuvent ni être désactivés, ni modifiés, ni supprimés. Toutefois, si vous souhaitez personnaliser un modèle, vous pouvez télécharger l’existant et apporter les modifications nécessaires afin qu’il réponde à vos besoins.
 
@@ -19,17 +19,15 @@ Suivez ces étapes pour télécharger un modèle existant :
 
 1. Sélectionnez le **modèle(s)** que vous souhaitez télécharger.
 
-<figure><img src="../.gitbook/assets/image (562).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_hqQJujWpU8.png" alt=""><figcaption></figcaption></figure>
 
 2. Ouvrez le **Actions** menu et choisissez **Télécharger**.
 
-<figure><img src="../.gitbook/assets/image (563).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_X2a7IOcJG6.png" alt=""><figcaption></figcaption></figure>
 
 3. Un fichier ZIP sera généré, contenant tous les modèles sélectionnés.
 
-<figure><img src="../.gitbook/assets/image (564).png" alt=""><figcaption></figcaption></figure>
-
-<br>
+<figure><img src="../.gitbook/assets/msedge_mlmstJMwJB.png" alt=""><figcaption></figcaption></figure>
 
 Suivez ces étapes pour modifier un modèle existant :
 
@@ -63,82 +61,77 @@ Suivez ces étapes pour convertir du texte brut en champ de fusion :
 2. Allez dans le module Configuration et sélectionnez **Modèles de documents** dans le menu.
 3. Cliquez sur le **Actions** menu et choisissez **Importer**.
 
-<figure><img src="../.gitbook/assets/image (568).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_DEnm9UTpNL.png" alt=""><figcaption></figcaption></figure>
 
 4. Parcourez votre ordinateur et sélectionnez le **modèle** que vous venez de créer.
 
-<figure><img src="../.gitbook/assets/image (569).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_8EnMdZANzT.png" alt=""><figcaption></figcaption></figure>
 
 5. Si nécessaire, mettez à jour l’identifiant ou le nom du fichier.
 
-<figure><img src="../.gitbook/assets/image (570).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_F0ZOK9hpOM.png" alt=""><figcaption></figcaption></figure>
 
 6. Choisissez le **type de modèle** dans le menu déroulant (par ex., modèle de bon de livraison).
 
-<figure><img src="../.gitbook/assets/image (571).png" alt=""><figcaption></figcaption></figure>
-
-<br>
+<figure><img src="../.gitbook/assets/image 101 (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Sélectionnez le **agence** ou les agences où le modèle doit être disponible (par ex., Louisiane).
-
-<figure><img src="../.gitbook/assets/image (572).png" alt=""><figcaption></figcaption></figure>
-
 8. Cliquez sur **Enregistrer** pour téléverser le modèle.
 
-<figure><img src="../.gitbook/assets/image (573).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_edoqtqZmn5.png" alt=""><figcaption></figcaption></figure>
 
 Le modèle nouvellement téléversé apparaîtra désormais dans le tableau des modèles.
 
-<figure><img src="../.gitbook/assets/image (574).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_LdcjaZYTLf.png" alt=""><figcaption></figcaption></figure>
 
 Par défaut, les nouveaux modèles sont désactivés. Pour activer le modèle :
 
 10. Sélectionnez le modèle téléversé et cliquez sur le **Actions** menu de la liste.
 11. Choisir **Activer/Désactiver** pour activer le modèle.
 
-<figure><img src="../.gitbook/assets/image (575).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_G981n5pKJC.png" alt=""><figcaption></figcaption></figure>
 
 12. Une notification confirmera que le modèle a été mis à jour avec succès, et la colonne Activé affichera Oui.
 
-<figure><img src="../.gitbook/assets/image (576).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image 102.png" alt=""><figcaption></figcaption></figure>
 
 Suivez ces étapes pour générer un PDF à l’aide du nouveau modèle activé :
 
 1. Accédez à **Missions** onglet et sélectionnez un itinéraire qui a été publié sur le livreur mobile.
 
-<figure><img src="../.gitbook/assets/image (577).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_roImfaro29.png" alt=""><figcaption></figcaption></figure>
 
 2. Cliquez sur le **Actions** menu et choisissez **Bon de livraison**.
 
-<figure><img src="../.gitbook/assets/image (578).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_sFBKi5lNNz.png" alt=""><figcaption></figcaption></figure>
 
 3. Cliquez sur le bouton Télécharger pour télécharger le bon de livraison.
 
-<figure><img src="../.gitbook/assets/image (579).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_mbIs4wIjgn.png" alt=""><figcaption></figcaption></figure>
 
 4. Le PDF téléchargé sera généré à l’aide du nouveau modèle activé.
 
-<figure><img src="../.gitbook/assets/image (580).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image 103.png" alt=""><figcaption></figcaption></figure>
 
 Suivez ces étapes pour supprimer un modèle
 
 1. Ouvrez l'application Nomadia Delivery et accédez à l'onglet **Configuration** .
 2. Dans le menu déroulant, sélectionnez **Modèles de documents.**
 
-<figure><img src="../.gitbook/assets/image (560).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_YvmdAxOnnB.png" alt=""><figcaption></figcaption></figure>
 
 3. Dans le tableau, choisissez n’importe quel modèle non par défaut, puis cliquez sur le **Actions** menu de la liste.
 4. Sélectionnez **Supprimer** pour retirer le modèle.
 
-<figure><img src="../.gitbook/assets/image (581).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_ifJQhYLhLV.png" alt=""><figcaption></figcaption></figure>
 
 5. Confirmez la suppression en cliquant sur **Oui**.
 
-<figure><img src="../.gitbook/assets/image (582).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_SfrINmFk2K.png" alt=""><figcaption></figcaption></figure>
 
 6. Le modèle sélectionné sera définitivement supprimé de l’application.
 
-<figure><img src="../.gitbook/assets/image (583).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_s34nqIFLdc.png" alt=""><figcaption></figcaption></figure>
 
 Suivez ces étapes pour modifier les paramètres du modèle.
 
@@ -146,17 +139,12 @@ Les paramètres du modèle incluent le type de document auquel le modèle est as
 
 1. Pour modifier les paramètres, cliquez sur le **Modifier** bouton à côté du nom du modèle.
 
-<figure><img src="../.gitbook/assets/image (583).png" alt=""><figcaption></figcaption></figure>
-
-<br>
+<figure><img src="../.gitbook/assets/msedge_bJiWkKs0cj.png" alt=""><figcaption></figcaption></figure>
 
 2. Vous pouvez mettre à jour le type de document et les agences associées au modèle.
-
-<figure><img src="../.gitbook/assets/image (584).png" alt=""><figcaption></figcaption></figure>
-
 3. Une fois les modifications effectuées, cliquez sur **Enregistrer** pour appliquer et enregistrer les paramètres mis à jour.
 
-<figure><img src="../.gitbook/assets/image (585).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_rPyc85lVSs.png" alt=""><figcaption></figcaption></figure>
 
 ### Type de configuration personnalisé
 
@@ -179,17 +167,21 @@ Suivez ces étapes pour configurer le type
 3. Par défaut, Nomadia Delivery fournit trois types de configuration : BASIC, INTERMEDIATE et ADVANCED. Vous pouvez soit utiliser ces types existants, soit en créer un nouveau à partir de zéro.
 4. Pour modifier un type de configuration existant, cliquez sur l’icône Crayon à côté de celui-ci.
 
-<figure><img src="../.gitbook/assets/image (586).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_usuFRiPbuV.png" alt=""><figcaption></figcaption></figure>
 
 5. Dans l’onglet Général, activez les interrupteurs en fonction de vos besoins :
-   * Activez les deux interrupteurs si le type de configuration doit s’appliquer au sous-statut et à la notification.
-   * Activez-les ou désactivez-les individuellement si vous souhaitez des configurations séparées pour le sous-statut et la notification.
+
+* Activez les deux interrupteurs si le type de configuration doit s’appliquer au sous-statut et à la notification.
+* Activez-les ou désactivez-les individuellement si vous souhaitez des configurations séparées pour le sous-statut et la notification.
+
 6. Vous pouvez définir des règles d’affectation automatique afin que les types de configuration soient appliqués sans intervention manuelle. Ces règles sont basées sur les champs de l’objet mission :
-   * Si une condition est remplie, le type de configuration est automatiquement appliqué au sous-statut et/ou à la notification.
-   * Plusieurs conditions peuvent être définies, et vous pouvez choisir si toutes les conditions doivent être remplies ou si une seule suffit en activant le **Suivre toutes les règles** interrupteur.
+
+* Si une condition est remplie, le type de configuration est automatiquement appliqué au sous-statut et/ou à la notification.
+* Plusieurs conditions peuvent être définies, et vous pouvez choisir si toutes les conditions doivent être remplies ou si une seule suffit en activant le **Suivre toutes les règles** interrupteur.
+
 7. Si plusieurs types de configuration répondent aux conditions, le système attribuera celui ayant la priorité la plus élevée (1 étant la plus élevée).
 
-<figure><img src="../.gitbook/assets/image (587).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_NMTNkI9zRY.png" alt=""><figcaption></figcaption></figure>
 
 8. Le tableau ci-dessous illustre comment différents types de configuration, conditions et règles influencent l’affectation automatique des valeurs dans l’objet mission.
 
@@ -204,7 +196,7 @@ Remarque : Le type de configuration du sous-statut attribué à l’objet missio
 
 9. Une fois les règles configurées, toute mission nouvellement créée ou importée héritera automatiquement des types de configuration correspondants, et les valeurs de mission seront renseignées en conséquence.
 
-<figure><img src="../.gitbook/assets/image (588).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_Uuoe7RVqrB.png" alt=""><figcaption></figcaption></figure>
 
 10. Dans des cas exceptionnels, les utilisateurs peuvent mettre à jour manuellement les types de configuration du sous-statut ou de la notification. Si ces modifications sont en conflit avec les affectations basées sur des règles, une fenêtre contextuelle de confirmation apparaîtra
 
@@ -212,6 +204,6 @@ Si confirmé, les modifications manuelles seront conservées.
 
 Si refusé, le système reviendra aux configurations attribuées automatiquement.
 
-<figure><img src="../.gitbook/assets/image (589).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image 106.png" alt=""><figcaption></figcaption></figure>
 
 <br>
