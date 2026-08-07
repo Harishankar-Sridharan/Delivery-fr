@@ -5,23 +5,20 @@ La fonctionnalité Gérer les zones postales permet aux administrateurs et aux r
 #### Importer des zones postales
 
 1. Cliquez sur l’onglet Configuration
-
-<figure><img src="../.gitbook/assets/image (604).png" alt=""><figcaption></figcaption></figure>
-
 2. Sous Livraison, cliquez sur Gérer les études et les zones
 
-<figure><img src="../.gitbook/assets/image (605).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_a6eNuuGcu2.png" alt=""><figcaption></figcaption></figure>
 
 3. Cliquez sur le **crayon** icône à côté de l’étude pour ouvrir le tableau des zones.
 4. Ouvrez le **Actions** menu déroulant
 5. Cliquez sur **Importer**
 
-<figure><img src="../.gitbook/assets/image (606).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_9wMt7rf2jj.png" alt=""><figcaption></figcaption></figure>
 
 \
 6\. Cliquez sur Parcourir le fichier pour téléverser le fichier contenant les données de la zone.
 
-<figure><img src="../.gitbook/assets/image (607).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_kb4iwVln7Y.png" alt=""><figcaption></figcaption></figure>
 
 7. Sélectionnez un fichier de zone valide depuis votre système local.
 
