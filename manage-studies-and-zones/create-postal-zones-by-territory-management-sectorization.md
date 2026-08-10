@@ -16,29 +16,29 @@ Pour des informations détaillées, consultez le manuel du Territory Manager dis
 
 [Documentation Nomadia Districting](https://mynomadia.com/doc/tm/docs/en/tm-book/_districting.html)
 
-<figure><img src="../.gitbook/assets/image (623).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_AnLnmBdOyd.png" alt=""><figcaption></figcaption></figure>
 
 7. Sélectionnez les indicateurs appropriés et définissez la période
 8. Cliquez sur Affecter des territoires
 
-<figure><img src="../.gitbook/assets/image (624).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_wD6Nydcz9m.png" alt=""><figcaption></figcaption></figure>
 
 9. Cliquez sur Automatisation
 
-<figure><img src="../.gitbook/assets/image (625).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_mJcucgPRDm.png" alt=""><figcaption></figcaption></figure>
 
 10. Dans la section Points d’équilibrage, cliquez sur Démarrer pour préparer le système à l’équilibrage automatique.
 
-<figure><img src="../.gitbook/assets/image (626).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_oQkSTs6Shu.png" alt=""><figcaption></figcaption></figure>
 
 11. Cliquez sur « C’est parti ! » pour lancer l’équilibrage automatisé des territoires.
 
-<figure><img src="../.gitbook/assets/image (627).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_WELoEhYwCk.png" alt=""><figcaption></figcaption></figure>
 
 12. Les secteurs sont générés selon les règles d’équilibrage définies par l’utilisateur.
 13. Pour garantir que la sectorisation respecte les limites des codes postaux, cliquez sur Frontières administratives et sélectionnez Code postal dans le menu déroulant.
 
-<figure><img src="../.gitbook/assets/image (628).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Image 110 (1).png" alt=""><figcaption></figcaption></figure>
 
 Les secteurs sont alignés en fonction des limites postales
 
