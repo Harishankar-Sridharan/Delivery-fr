@@ -20,31 +20,31 @@ Pour configurer et gérer les types de configuration des sous-statuts dans Nomad
 
 1. Ouvrez l'application Nomadia Delivery et accédez à l'onglet **Configuration** module.
 
-<figure><img src="../.gitbook/assets/image (646).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_7hL7WCgKYa.png" alt=""><figcaption></figcaption></figure>
 
 2. Cliquez sur le **Actions** bouton, puis choisissez **Ajouter** pour créer un nouveau sous-statut.
 
-<figure><img src="../.gitbook/assets/image (647).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_N51gC0tcZ9.png" alt=""><figcaption></figcaption></figure>
 
 3. Attribuez le sous-statut créé à un ou plusieurs modèles.
 
-<figure><img src="../.gitbook/assets/image (648).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_XoI5rc6J3v.png" alt=""><figcaption></figcaption></figure>
 
 4. Définissez les actions requises pour chaque sous-statut, comme rendre la signature obligatoire, exiger une photo, etc.
 
-<figure><img src="../.gitbook/assets/image (649).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_g9AeADHrUr.png" alt=""><figcaption></figcaption></figure>
 
 5. Répétez le processus pour créer des sous-statuts supplémentaires et les lier aux modèles souhaités.
 
-<figure><img src="../.gitbook/assets/image (650).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_EHUTOLI57H.png" alt=""><figcaption></figcaption></figure>
 
 6. Une fois tous les modèles configurés, accédez à la **Missions** .
 7. Cliquez sur le **Mission** bouton Éditeur pour associer un modèle de sous-statut à une mission.
 
-<figure><img src="../.gitbook/assets/image (651).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_VEgVFyp72K.png" alt=""><figcaption></figcaption></figure>
 
 8. Sélectionnez le **modèle de configuration de statut** pour la mission choisie
 
-<figure><img src="../.gitbook/assets/image (652).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_AtoN08miPD.png" alt=""><figcaption></figcaption></figure>
 
 <br>
