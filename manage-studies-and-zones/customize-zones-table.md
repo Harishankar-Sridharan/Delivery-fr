@@ -7,7 +7,7 @@
 5. Cliquez sur le menu déroulant Actions.
 6. Cliquez sur Personnaliser la limite
 
-<figure><img src="../.gitbook/assets/image (629).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_9PXZNbBa1E.png" alt=""><figcaption></figcaption></figure>
 
 7. Choisissez les champs que vous souhaitez afficher dans le tableau.
 
@@ -17,8 +17,8 @@ naviguer.
 
 8. Cliquez sur Enregistrer
 
-<figure><img src="../.gitbook/assets/image (630).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_1YiVcJPGBw.png" alt=""><figcaption></figcaption></figure>
 
 Les champs sélectionnés ont été affichés dans le tableau.
 
-<figure><img src="../.gitbook/assets/image (631).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_L1H5cpsFNl.png" alt=""><figcaption></figcaption></figure>
