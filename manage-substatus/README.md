@@ -11,17 +11,17 @@ La fonctionnalité Gérer les sous-statuts permet aux administrateurs de créer,
 5. Cliquez sur le **Actions** menu déroulant
 6. Cliquez sur **Supprimer**
 
-<figure><img src="../.gitbook/assets/image (632).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_QCAHPvgP1I.png" alt=""><figcaption></figcaption></figure>
 
 Vous verrez un message de confirmation contextuel indiquant : « Voulez-vous supprimer le sous-statut ? »
 
 7. Cliquez sur **Oui**
 
-<figure><img src="../.gitbook/assets/image (633).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_S1wx0soaZA.png" alt=""><figcaption></figcaption></figure>
 
 Le sous-statut a été supprimé avec succès
 
-<figure><img src="../.gitbook/assets/image (634).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_jhZ0aB56V4.png" alt=""><figcaption></figcaption></figure>
 
 #### Coloration d’un sous-statut
 
@@ -34,13 +34,13 @@ Appliquez des conditions basées sur les attributs de la zone tels que le type d
 5. Cliquez sur le **Actions** menu déroulant
 6. Cliquez sur **Coloration**
 
-<figure><img src="../.gitbook/assets/image (635).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_Gro0JhNE1B.png" alt=""><figcaption></figcaption></figure>
 
 7. Choisissez un **Couleur**
 8. Cliquez sur **Enregistrer**
 
-<figure><img src="../.gitbook/assets/image (636).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_D5f7PxgEX0.png" alt=""><figcaption></figcaption></figure>
 
 La couleur sélectionnée a été appliquée avec succès.
 
-<figure><img src="../.gitbook/assets/image (637).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_4k95EfGelL.png" alt=""><figcaption></figcaption></figure>
