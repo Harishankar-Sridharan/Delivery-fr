@@ -22,7 +22,7 @@ Cliquez sur OK pour créer un nouvel utilisateur. Vous pouvez également créer 
 
 **Remarque**: Si aucun prestataire n’apparaît dans la liste, assurez-vous qu’un a bien été créé dans le module Prestataires.
 
-<figure><img src="../.gitbook/assets/msedge_Ju3lEFTGCi (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_Ju3lEFTGCi.png" alt=""><figcaption></figcaption></figure>
 
 7. Attribuez les droits nécessaires au nouvel utilisateur Prestataire, puis passez à l’onglet Agences
 8. Cliquez sur Enregistrer

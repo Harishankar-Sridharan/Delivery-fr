@@ -73,7 +73,7 @@ Suivez ces étapes pour convertir du texte brut en champ de fusion :
 
 6. Choisissez le **type de modèle** dans le menu déroulant (par ex., modèle de bon de livraison).
 
-<figure><img src="../.gitbook/assets/image 101 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image 101.png" alt=""><figcaption></figcaption></figure>
 
 7. Sélectionnez le **agence** ou les agences où le modèle doit être disponible (par ex., Louisiane).
 8. Cliquez sur **Enregistrer** pour téléverser le modèle.

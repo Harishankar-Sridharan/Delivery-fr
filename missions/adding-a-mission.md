@@ -17,8 +17,6 @@ Pour organiser les groupes de champs personnalisés dans l’ordre souhaité :
 
     <figure><img src="../.gitbook/assets/msedge_tBdcf693iA.png" alt=""><figcaption></figcaption></figure>
 
-
-
 **Accédez à Missions**
 
 * Dans Configuration, sélectionnez l’ **Missions** .
@@ -31,7 +29,7 @@ Pour organiser les groupes de champs personnalisés dans l’ordre souhaité :
 * Cliquez sur le **Actions** bouton (en haut à droite ou dans la barre d’outils).
 * Sélectionnez **Ajouter** pour créer une nouvelle configuration de mission.
 
-<figure><img src="../.gitbook/assets/msedge_42vhZdusfI (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_42vhZdusfI.png" alt=""><figcaption></figcaption></figure>
 
 * Sélectionnez le **Type de mission** approprié dans la liste déroulante.
 * Choisissez l’ **Agence** correspondante à laquelle la mission s’applique.
@@ -115,13 +113,13 @@ Pour ajouter des documents juste après la création de la mission :
 * Cliquez sur Actions → Ajouter (bêta).
 * Sélectionnez le type de mission et l’agence, puis cliquez sur Suivant.
 * Cliquez sur le bouton icône Crayon pour modifier la configuration.
-* Activez le bouton Ajouter des documents.&#x20;
+* Activez le bouton Ajouter des documents.
 
 <figure><img src="../.gitbook/assets/msedge_0sNGXjlL1J.png" alt=""><figcaption></figcaption></figure>
 
 * Cliquez sur Enregistrer pour appliquer les modifications.
 
-<figure><img src="../.gitbook/assets/msedge_EwtlAC1WD0 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_EwtlAC1WD0.png" alt=""><figcaption></figcaption></figure>
 
 * Le système invite à ajouter des documents immédiatement après la création de la mission.
 * Les documents peuvent être ajoutés depuis :

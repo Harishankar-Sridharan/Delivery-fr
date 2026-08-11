@@ -120,4 +120,5 @@
   * [Missions à étapes multiples](case-studies/multi-leg-missions.md)
   * [Réaffecter les zones manuellement](case-studies/reassign-zones-manually.md)
   * [Logistique inverse](case-studies/reverse-logistics.md)
-  * [Mode Sans Itinéraire](case-studies/mode-sans-itineraire.md)
+  * [Mode Sans Itinéraire](case-studies/mode-sans-itineraire/README.md)
+    * [Personnaliser le flux de travail](case-studies/mode-sans-itineraire/personnaliser-le-flux-de-travail.md)

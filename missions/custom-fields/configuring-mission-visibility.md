@@ -6,7 +6,7 @@ La visibilité des missions était auparavant déterminée principalement par l�
 
 Pour configurer un champ personnalisé comme restriction de visibilité des missions, suivez les étapes ci-dessous.
 
-1. Ouvrez l’application Nomadia Delivery et accédez à la **Configuration.**&#x20;
+1. Ouvrez l’application Nomadia Delivery et accédez à la **Configuration.**
 
 <figure><img src="../../.gitbook/assets/msedge_YqU5ZOXQUs.png" alt=""><figcaption></figcaption></figure>
 
@@ -14,7 +14,7 @@ Pour configurer un champ personnalisé comme restriction de visibilité des miss
 
 <figure><img src="../../.gitbook/assets/msedge_QjgLulwNgp.png" alt=""><figcaption></figcaption></figure>
 
-3. Cliquez sur le **Missions.**&#x20;
+3. Cliquez sur le **Missions.**
 
 <figure><img src="../../.gitbook/assets/msedge_VednIolFWR.png" alt=""><figcaption></figcaption></figure>
 
@@ -48,7 +48,7 @@ Remarque : la bascule est disponible uniquement pour les champs personnalisés d
 4. Dans la section Mission, une nouvelle liste déroulante Visibilité des missions est disponible, vous permettant de sélectionner la valeur associée à l’utilisateur sélectionné.
 5. Sélectionnez la valeur du champ personnalisé requise et cliquez sur **Enregistrer**.
 
-<figure><img src="../../.gitbook/assets/msedge_E7l7UQ2ZDs (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_E7l7UQ2ZDs.png" alt=""><figcaption></figcaption></figure>
 
 3. Connectez-vous en tant qu’utilisateur configuré et accédez à l’option **Missions** .
 

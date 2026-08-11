@@ -7,7 +7,7 @@ Pour configurer Nomadia Delivery pour le portail de réservation de rendez-vous,
 1. Ouvrez l'application Nomadia Delivery et accédez à l'onglet **Configuration** .
 2. Dans le menu déroulant, sélectionnez **Configurer les pages d’expérience client.**
 
-<figure><img src="../../.gitbook/assets/msedge_SG8lOhDyh3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_SG8lOhDyh3.png" alt=""><figcaption></figcaption></figure>
 
 3. Cliquez sur le **Planifier une option de livraison.**
 4. Ouvrez l’onglet Planning. Cet onglet permet au transporteur de définir les créneaux horaires qui seront disponibles à la réservation dans le portail de rendez-vous.

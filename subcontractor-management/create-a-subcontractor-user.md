@@ -33,7 +33,7 @@ Vous pouvez également créer un utilisateur à partir d’un utilisateur exista
 7. Le système attribue automatiquement les droits en fonction de l’utilisateur.
 8. Enregistrez le nouvel utilisateur. Le sous-traitant recevra une notification par e-mail avec les instructions pour créer un mot de passe et activer le compte.
 
-<figure><img src="../.gitbook/assets/msedge_2xpHG5nBDl (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_2xpHG5nBDl.png" alt=""><figcaption></figcaption></figure>
 
 9. Le sous-traitant doit :
 

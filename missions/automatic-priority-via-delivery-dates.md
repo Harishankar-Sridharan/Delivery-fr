@@ -23,4 +23,4 @@
 3. Basculez le **commutateur Recalculer les priorités** sur ACTIVÉ.
 4. Lancez l’ **optimisation**.
 
-<figure><img src="../.gitbook/assets/msedge_VxiYjSbLY1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_VxiYjSbLY1.png" alt=""><figcaption></figcaption></figure>

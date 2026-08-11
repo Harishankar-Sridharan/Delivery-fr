@@ -43,7 +43,7 @@ Pour empêcher les sous-traitants de modifier les missions après impression, su
 5. Dans la section Missions, désactivez le droit Modifier la mission après impression.
 6. Cliquez sur Enregistrer pour appliquer les modifications
 
-<figure><img src="../.gitbook/assets/msedge_cTUdkDGDrT (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_cTUdkDGDrT.png" alt=""><figcaption></figcaption></figure>
 
 7. Accédez à l’onglet Missions et sélectionnez une mission en attente.
 

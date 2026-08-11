@@ -6,7 +6,7 @@ Ce guide explique comment les sous-traitants et les transporteurs peuvent dupliq
 
 1. Ouvrez l'application Nomadia Delivery et accédez à l'onglet **Missions.**
 
-<figure><img src="../.gitbook/assets/msedge_NFw0xlTEwn (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_NFw0xlTEwn.png" alt=""><figcaption></figcaption></figure>
 
 2. Dans le tableau des missions, cliquez sur le **menu déroulant Actions** menu et sélectionnez **Ajouter**.
 
@@ -21,7 +21,7 @@ Ce guide explique comment les sous-traitants et les transporteurs peuvent dupliq
 
 <figure><img src="../.gitbook/assets/msedge_Uw0BIsW7Vi.png" alt=""><figcaption></figcaption></figure>
 
-6. Pour dupliquer un colis existant avec les mêmes détails, cliquez sur l’ **icône Copier.**&#x20;
+6. Pour dupliquer un colis existant avec les mêmes détails, cliquez sur l’ **icône Copier.**
 
 <figure><img src="../.gitbook/assets/msedge_Z5OrOoscuc.png" alt=""><figcaption></figcaption></figure>
 

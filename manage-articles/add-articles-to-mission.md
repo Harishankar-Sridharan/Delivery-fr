@@ -17,7 +17,7 @@ Depuis la page Mission
 5. Saisissez les informations requises, y compris le **Nom de l’article** et **Quantité prévue**
 6. Cliquez sur **Enregistrer**
 
-<figure><img src="../.gitbook/assets/msedge_Nn9Lx1lITR (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_Nn9Lx1lITR.png" alt=""><figcaption></figcaption></figure>
 
 Les articles seront ajoutés avec succès.
 

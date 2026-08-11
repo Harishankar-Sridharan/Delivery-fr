@@ -111,7 +111,7 @@ Pour créer une mission de cross-docking, suivez ces étapes :
 
 6. L’Étape 2 | Tournée de livraison Last-Mile sera désormais publiée sur l’application mobile du livreur.
 
-<figure><img src="../.gitbook/assets/image (985).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (982).png" alt=""><figcaption></figcaption></figure>
 
 7. Le livreur doit effectuer les livraisons en temps réel pour terminer l’Étape 2 | Tournée de livraison Last-Mile.
 

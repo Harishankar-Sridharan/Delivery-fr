@@ -53,34 +53,34 @@ Pour configurer un tableau de bord personnalisé, les utilisateurs (transporteur
    * Personnalisez les tableaux de bord pour répondre à des rôles ou à des besoins opérationnels spécifiques.
 9. Choisissez le KPI souhaité dans la liste disponible (par exemple, Missions livrées). Le titre et l’icône du widget seront automatiquement mis à jour en fonction du KPI sélectionné.​
 
-<figure><img src=".gitbook/assets/Image 6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Image 6.png" alt=""><figcaption></figcaption></figure>
 
 10. Cliquez sur « Enregistrer ». Une notification de confirmation apparaîtra.
 
-<figure><img src=".gitbook/assets/msedge_WWrr5CTPQb (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/msedge_WWrr5CTPQb.png" alt=""><figcaption></figcaption></figure>
 
 11. Pour modifier un tableau de bord existant, cliquez à nouveau sur « Mode édition ».
 
-<figure><img src=".gitbook/assets/msedge_Koqot1gGI0 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/msedge_Koqot1gGI0.png" alt=""><figcaption></figcaption></figure>
 
 12. Redimensionnez les widgets en plaçant la souris dans le coin inférieur et en les faisant glisser jusqu’à la taille souhaitée.
 
-<figure><img src=".gitbook/assets/msedge_YAAUrjWe7a (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/msedge_YAAUrjWe7a.png" alt=""><figcaption></figcaption></figure>
 
 13. Pour ajouter d’autres widgets, cliquez sur « Ajouter un widget ». Le nouveau widget occupera l’espace disponible dans la grille.
 
-<figure><img src=".gitbook/assets/msedge_8QYyHGhcpc (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/msedge_8QYyHGhcpc.png" alt=""><figcaption></figcaption></figure>
 
 14. Faites glisser les widgets pour les repositionner si nécessaire.
 
-<figure><img src=".gitbook/assets/msedge_GedQlQa33A (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/msedge_GedQlQa33A.png" alt=""><figcaption></figcaption></figure>
 
 15. Pour modifier un widget, cliquez dessus, sélectionnez le KPI (par exemple, Missions livrées), mettez à jour le titre (par exemple, Missions livrées par les utilisateurs) et choisissez la représentation (par exemple, Barre horizontale).​
 16. Définissez les options d’agrégation (par exemple, Agrégé par utilisateurs) pour afficher les données selon les utilisateurs mobiles.
 17. Continuez à ajouter tous les KPI requis, en appliquant différentes représentations et agrégations, pour finaliser le tableau de bord.
 18. Une fois terminé, cliquez sur « Enregistrer » pour sauvegarder toutes les modifications.
 
-<figure><img src=".gitbook/assets/msedge_uQKYfnRKOR (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/msedge_uQKYfnRKOR.png" alt=""><figcaption></figcaption></figure>
 
 Le nouveau tableau de bord personnalisé est désormais prêt pour un suivi régulier par son auteur.
 

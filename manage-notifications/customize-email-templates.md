@@ -18,7 +18,7 @@ Suivez les étapes ci-dessous pour créer un modèle de notification par e-mail 
 2. Dans le menu déroulant, sélectionnez Configurer les messages sortants.
 3. Cliquez sur l’onglet Modèles d’e-mail.
 
-<figure><img src="../.gitbook/assets/msedge_qeDy66h640 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_qeDy66h640.png" alt=""><figcaption></figcaption></figure>
 
 4. Dans le tableau, cliquez sur le bouton Actions et sélectionnez Ajouter.
 

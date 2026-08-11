@@ -45,4 +45,4 @@ Une fois la liste d’adresses créée, accédez à la **Mission** page.
 
 Cela garantit une expérience fluide et unifiée lors de la saisie des adresses de mission.
 
-<figure><img src="../.gitbook/assets/image 46 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image 46 (1).png" alt=""><figcaption></figcaption></figure>

@@ -9,4 +9,4 @@
 
 3. **Enregistrer** ou appliquez les modifications (uniquement pour la création d’un nouveau filtre)
 
-<figure><img src="../../.gitbook/assets/msedge_fDFXRsN9CC (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_fDFXRsN9CC.png" alt=""><figcaption></figcaption></figure>

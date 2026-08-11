@@ -5,7 +5,7 @@ Pour regrouper des champs personnalisés dans le formulaire de création de miss
 * Ouvrez l'application Nomadia Delivery et accédez à l'onglet **Configuration.**
 * Dans la liste, sélectionnez **Champs personnalisés**.
 
-<figure><img src="../../.gitbook/assets/msedge_nJ49HuXZmD (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_nJ49HuXZmD.png" alt=""><figcaption></figcaption></figure>
 
 * Cliquez sur **Missions**.
 

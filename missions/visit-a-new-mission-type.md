@@ -28,7 +28,7 @@ Pour configurer une mission de visite, les utilisateurs (prestataires, transport
 5. Sélectionnez le **agence** qui servira de point de départ pour les livreurs.
 6. Cliquez sur ‘**Suivant**’ pour passer à l’étape suivante.
 
-<figure><img src="../.gitbook/assets/msedge_xJViOTka8q (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_xJViOTka8q.png" alt=""><figcaption></figcaption></figure>
 
 7. Saisissez l’ **adresse de visite** du client final dans le champ d’adresse.
 8. Cliquez sur ‘**Ajouter**’ pour créer la mission de visite.

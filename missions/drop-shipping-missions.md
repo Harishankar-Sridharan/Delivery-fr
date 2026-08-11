@@ -23,7 +23,7 @@ Pour créer une mission de drop-shipping, les utilisateurs (donneurs d’ordre, 
 
 5. Sélectionnez le **Agence** à partir de laquelle les livreurs commenceront leur tournée.
 
-<figure><img src="../.gitbook/assets/msedge_ugvDOyN017 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_ugvDOyN017.png" alt=""><figcaption></figcaption></figure>
 
 6. Cliquez sur **Suivant**.
 
@@ -36,8 +36,6 @@ Pour créer une mission de drop-shipping, les utilisateurs (donneurs d’ordre, 
 * Si nécessaire, cliquez sur le **Modifier** bouton à côté du champ d’adresse pour définir une autre adresse de prise en charge.
 
 <figure><img src="../.gitbook/assets/msedge_2gi42dc7Xn.png" alt=""><figcaption></figcaption></figure>
-
-
 
 9. Saisissez le **adresse de livraison** du client final dans la section adresse.
 10. Cliquez sur **Ajouter** pour créer la mission de drop-shipping.

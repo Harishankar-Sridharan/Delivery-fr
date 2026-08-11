@@ -11,4 +11,4 @@
 6. Modifiez les détails de l’utilisateur si nécessaire.
 7. Cliquez sur **Enregistrer** pour terminer le processus.
 
-<figure><img src="../.gitbook/assets/msedge_Ida8uW5AtG (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_Ida8uW5AtG.png" alt=""><figcaption></figcaption></figure>
