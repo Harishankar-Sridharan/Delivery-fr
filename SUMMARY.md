@@ -120,3 +120,4 @@
   * [Missions à étapes multiples](case-studies/multi-leg-missions.md)
   * [Réaffecter les zones manuellement](case-studies/reassign-zones-manually.md)
   * [Logistique inverse](case-studies/reverse-logistics.md)
+  * [No Route Mode](gitbook/assets/NoRouteMode.md) 
