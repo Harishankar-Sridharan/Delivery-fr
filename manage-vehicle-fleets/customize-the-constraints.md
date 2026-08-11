@@ -8,7 +8,7 @@
 6. Cliquez sur Ajouter
 7. Cliquez sur Contraintes
 
-<figure><img src="../.gitbook/assets/image (707).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_NiixsDAPwC.png" alt=""><figcaption></figcaption></figure>
 
 8. Choisissez les champs que vous souhaitez afficher dans le tableau.
 
@@ -16,8 +16,8 @@
 
 9. Cliquez sur Enregistrer
 
-<figure><img src="../.gitbook/assets/image (708).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_hxzSfkakfO.png" alt=""><figcaption></figcaption></figure>
 
 Les champs ont été affichés avec succès.
 
-<figure><img src="../.gitbook/assets/image (709).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_slrCrfnEJm.png" alt=""><figcaption></figcaption></figure>
