@@ -9,15 +9,12 @@
 5. Cliquez sur Actions
 6. Cliquez sur Ajouter dans le menu déroulant
 
-<figure><img src="../.gitbook/assets/image (693).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_YDBiMgyEAN.png" alt=""><figcaption></figcaption></figure>
 
 7. Saisissez le nom
-
-<figure><img src="../.gitbook/assets/image (694).png" alt=""><figcaption></figcaption></figure>
-
 8. Cliquez sur Ajouter
 
-<figure><img src="../.gitbook/assets/image (695).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_UA1jt2TwRr.png" alt=""><figcaption></figcaption></figure>
 
 **Supprimer un véhicule**
 
@@ -28,16 +25,16 @@
 5. Cliquez sur Actions
 6. Cliquez sur Supprimer dans le menu déroulant
 
-<figure><img src="../.gitbook/assets/image (696).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_Loo3j1CHuV.png" alt=""><figcaption></figcaption></figure>
 
 7. Vous verrez un message contextuel de confirmation indiquant : « Voulez-vous supprimer le véhicule ? »
 8. Cliquez sur Supprimer.
 
-<figure><img src="../.gitbook/assets/image (691).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_bnGa8fvG3k.png" alt=""><figcaption></figcaption></figure>
 
 Les véhicules ont été supprimés avec succès
 
-<figure><img src="../.gitbook/assets/image (697).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_GNRvUfuaRu.png" alt=""><figcaption></figcaption></figure>
 
 #### Exporter un véhicule
 
@@ -48,11 +45,11 @@ Les véhicules ont été supprimés avec succès
 5. Cliquez sur Actions
 6. Cliquez sur Exporter dans le menu déroulant
 
-<figure><img src="../.gitbook/assets/image (698).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_2HV6fQeqxN.png" alt=""><figcaption></figcaption></figure>
 
 Les véhicules ont été exportés avec succès.
 
-<figure><img src="../.gitbook/assets/image (699).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_zzMKqlRLwE.png" alt=""><figcaption></figcaption></figure>
 
 #### Colorer un véhicule
 
@@ -63,16 +60,16 @@ Les véhicules ont été exportés avec succès.
 5. Cliquez sur Actions
 6. Cliquez sur Coloration dans le menu déroulant
 
-<figure><img src="../.gitbook/assets/image (700).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_Zw3PqWqwa5.png" alt=""><figcaption></figcaption></figure>
 
 7. Choisissez une couleur
 8. Cliquez sur Enregistrer
 
-<figure><img src="../.gitbook/assets/image (701).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_iynYNapinz.png" alt=""><figcaption></figcaption></figure>
 
 La couleur a été appliquée avec succès.
 
-<figure><img src="../.gitbook/assets/image (702).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_HqK6Fd513g.png" alt=""><figcaption></figcaption></figure>
 
 #### Personnaliser le tableau des véhicules
 
@@ -83,7 +80,7 @@ La couleur a été appliquée avec succès.
 5. Cliquez sur Actions
 6. Cliquez sur Personnaliser la liste dans le menu déroulant
 
-<figure><img src="../.gitbook/assets/image (703).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_r1A5NFIVSz.png" alt=""><figcaption></figcaption></figure>
 
 7. Choisissez les champs que vous souhaitez afficher dans le tableau.
 
@@ -91,11 +88,11 @@ La couleur a été appliquée avec succès.
 
 8. Cliquez sur Enregistrer
 
-<figure><img src="../.gitbook/assets/image (704).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_AOwNYedpjt.png" alt=""><figcaption></figcaption></figure>
 
 Les champs sélectionnés seront affichés avec succès dans le tableau
 
-<figure><img src="../.gitbook/assets/image (705).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_DNmlSMXmCk.png" alt=""><figcaption></figcaption></figure>
 
 #### Personnaliser le tableau des flottes de véhicules
 
@@ -106,7 +103,7 @@ Les champs sélectionnés seront affichés avec succès dans le tableau
 5. Sous Mes flottes, cliquez sur le menu déroulant Actions.
 6. Cliquez sur Personnaliser la liste
 
-<figure><img src="../.gitbook/assets/image (706).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1001).png" alt=""><figcaption></figcaption></figure>
 
 7. Choisissez les champs que vous souhaitez afficher dans le tableau.
 
@@ -114,8 +111,8 @@ Les champs sélectionnés seront affichés avec succès dans le tableau
 
 8. Cliquez sur Enregistrer
 
-<figure><img src="../.gitbook/assets/image (704).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1002).png" alt=""><figcaption></figcaption></figure>
 
 Les champs sélectionnés ont été affichés avec succès dans le tableau
 
-<figure><img src="../.gitbook/assets/image (705).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1003).png" alt=""><figcaption></figcaption></figure>
