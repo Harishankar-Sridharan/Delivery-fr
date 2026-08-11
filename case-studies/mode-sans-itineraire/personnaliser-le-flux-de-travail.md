@@ -17,6 +17,8 @@ La fonctionnalité de flux de travail personnalisé vous permet de définir la p
 
 * Cliquez sur l'onglet **Flux de travail**.
 
+<figure><img src="../../.gitbook/assets/NR 1.png" alt=""><figcaption></figcaption></figure>
+
 **Aperçu de la fonctionnalité**
 
 * **Mappage du flux de travail** : Définissez quel statut peut être modifié vers un statut suivant spécifique.
@@ -32,6 +34,8 @@ La fonctionnalité de flux de travail personnalisé vous permet de définir la p
 5. Cliquez sur **Enregistrer** pour appliquer les modifications.
 
 **Remarque** : La page **Flux de travail** permet aux utilisateurs de configurer le flux des statuts de mission. Ils peuvent définir entre quels statuts une mission peut transitionner et spécifier les **profils utilisateurs** autorisés à effectuer chaque changement de statut. Cela offre un contrôle total sur le flux de travail de livraison en garantissant que seuls les profils désignés peuvent exécuter des transitions de statut spécifiques.
+
+<figure><img src="../../.gitbook/assets/NR 2.png" alt=""><figcaption></figcaption></figure>
 
 **Conseils de productivité**
 
