@@ -123,3 +123,4 @@
   * [Mode Sans Itinéraire](case-studies/mode-sans-itineraire/README.md)
     * [Personnaliser le flux de travail](case-studies/mode-sans-itineraire/personnaliser-le-flux-de-travail.md)
     * [Gérer les dépôts / bâtiments](case-studies/mode-sans-itineraire/gerer-les-depots-batiments.md)
+    * [Page 1](case-studies/mode-sans-itineraire/page-1.md)
