@@ -12,6 +12,8 @@ Le mode Sans Itinéraire est conçu pour les entreprises qui privilégient la ge
 1. Connectez-vous avec vos identifiants de compte Sans Itinéraire.
 2. Vérifiez que la barre de navigation affiche uniquement les modules essentiels tels que Accueil, Missions, Tableau de bord et Configuratio
 
+<figure><img src="../../.gitbook/assets/msedge_objKOYYf0X.png" alt=""><figcaption></figcaption></figure>
+
 **Aperçu de la fonctionnalité**
 
 * **Accueil** : Accédez à l'interface de départ conçue pour les opérations quotidiennes.
@@ -26,6 +28,8 @@ Le mode Sans Itinéraire est conçu pour les entreprises qui privilégient la ge
 1. Sélectionnez le module **Missions** depuis le menu de navigation principal.
 2. Cliquez sur l'onglet **Cartes** pour visualiser les emplacements des missions.
 3. Appuyez sur l'onglet **Détails** pour inspecter les données spécifiques à la mission
+
+<figure><img src="../../.gitbook/assets/msedge_objKOYYf0X (1).png" alt=""><figcaption></figcaption></figure>
 
 **Conseils de productivité**
 
