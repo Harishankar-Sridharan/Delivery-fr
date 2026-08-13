@@ -126,3 +126,4 @@
     * [Gestion des navettes](case-studies/mode-sans-itineraire/gestion-des-navettes.md)
     * [Affecter aux sous-traitants](case-studies/mode-sans-itineraire/affecter-aux-sous-traitants/README.md)
       * [Configuration de l'iFrame](case-studies/mode-sans-itineraire/affecter-aux-sous-traitants/configuration-de-liframe.md)
+      * [Interaction avec l'iFrame](case-studies/mode-sans-itineraire/affecter-aux-sous-traitants/interaction-avec-liframe.md)
