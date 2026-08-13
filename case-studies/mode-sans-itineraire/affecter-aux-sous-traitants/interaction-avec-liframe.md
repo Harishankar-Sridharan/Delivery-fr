@@ -14,6 +14,8 @@ Cette fonctionnalité vous permet de communiquer directement avec les sous-trait
 3. Cliquez sur **Actions**.
 4. Cliquez sur **Assigner au sous-traitant**.
 
+<figure><img src="../../../.gitbook/assets/NR 11.png" alt=""><figcaption></figcaption></figure>
+
 **Aperçu de la fonctionnalité**
 
 * **Champ Message** : Utilisez cette zone pour saisir des instructions personnalisées ou des mises à jour de statut.
@@ -29,12 +31,16 @@ Cette fonctionnalité vous permet de communiquer directement avec les sous-trait
 3. Cliquez sur **Envoyer le message**.
 4. Vérifiez la fenêtre contextuelle « Le sous-traitant a été transmis ».
 
+<figure><img src="../../../.gitbook/assets/NR 12.png" alt=""><figcaption></figcaption></figure>
+
 **Envoyer un avertissement**
 
 1. Modifiez le texte existant dans le **champ Message**.
 2. Changez le statut en **Avertissement**.
 3. Cliquez sur **Envoyer le message uniquement**.
 4. Vérifiez la fenêtre contextuelle « Vérifiez à nouveau l'e-mail ».
+
+<figure><img src="../../../.gitbook/assets/NR 13.png" alt=""><figcaption></figcaption></figure>
 
 **Envoyer une erreur**
 
@@ -43,6 +49,8 @@ Cette fonctionnalité vous permet de communiquer directement avec les sous-trait
 3. Cliquez sur **Envoyer le message uniquement**.
 4. Vérifiez la fenêtre contextuelle du message d'erreur.
 
+<figure><img src="../../../.gitbook/assets/NR 15.png" alt=""><figcaption></figcaption></figure>
+
 **Finaliser une assignation réussie**
 
 1. Sélectionnez le statut **Succès**.
@@ -50,10 +58,14 @@ Cette fonctionnalité vous permet de communiquer directement avec les sous-trait
 3. Cliquez sur **Envoyer le message uniquement**.
 4. Vérifiez la fenêtre contextuelle « Le sous-traitant a été assigné avec succès ».
 
+<figure><img src="../../../.gitbook/assets/NR 18.png" alt=""><figcaption></figcaption></figure>
+
 **Quitter l'interface**
 
 1. Actualisez la page une fois les tâches terminées.
 2. Fermez la fenêtre contextuelle.
+
+<figure><img src="../../../.gitbook/assets/NR 20.png" alt=""><figcaption></figcaption></figure>
 
 **Conseils de productivité**
 
