@@ -14,7 +14,7 @@ Prérequis et étapes de configuration initiale :
 1. Ouvrez la page **Configuration**.
 2. Sélectionnez **Gérer les utilisateurs**.
 
-<figure><img src="../../.gitbook/assets/msedge_znZvblwIr7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_EwnN380CIA.png" alt=""><figcaption></figcaption></figure>
 
 **Aperçu de la fonctionnalité**
 
@@ -28,25 +28,25 @@ Prérequis et étapes de configuration initiale :
 1. Accédez à la page **Configuration** et cliquez sur **Gérer les utilisateurs**.
 2. Cliquez sur un **utilisateur** spécifique.
 
-<figure><img src="../../.gitbook/assets/msedge_znZvblwIr7 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_EwnN380CIA (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Sélectionnez **Rôles et droits**.
 4. Activez l'option **Gérer les dépôts**.
 5. Cliquez sur la **flèche gauche** pour revenir au menu principal.
 
-<figure><img src="../../.gitbook/assets/msedge_QmvSU9H9g5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_m28dDSuMvj.png" alt=""><figcaption></figcaption></figure>
 
 **Comment faire : Associer un bâtiment à un utilisateur**
 
 1. Sélectionnez **Gérer les utilisateurs** et cliquez sur l'**utilisateur** souhaité.
 2. Localisez le menu **Liste déroulante d'emplacement**.
 
-<figure><img src="../../.gitbook/assets/NR 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_XXFI8vNAlr.png" alt=""><figcaption></figcaption></figure>
 
 3. Sélectionnez le bâtiment dans la liste.
 4. Actualisez la page pour confirmer que l'association est reflétée dans le tableau **Gérer les utilisateurs**.
 
-<figure><img src="../../.gitbook/assets/NR 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_olhnSS36x5.png" alt=""><figcaption></figcaption></figure>
 
 **Conseils de productivité**
 
