@@ -40,15 +40,15 @@ Vous pouvez également cliquer sur Valider les itinéraires pour publier directe
 * Sélectionnez les itinéraires à valider.
 * Ouvrez le **Actions** menu, puis cliquez sur **Valider**.
 
-<figure><img src="../.gitbook/assets/image (948).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_PU5avEGSID.png" alt=""><figcaption></figcaption></figure>
 
 Confirmez en cliquant sur OK.
 
-<figure><img src="../.gitbook/assets/image (949).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_r4yme5vv6p.png" alt=""><figcaption></figcaption></figure>
 
 7. L’itinéraire est validé et une notification de confirmation s’affiche.
 
-<figure><img src="../.gitbook/assets/image (950).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_7520SBv5W0.png" alt=""><figcaption></figcaption></figure>
 
 En bas de la fenêtre contextuelle, activez Publier dans l’application mobile si vous souhaitez partager l’itinéraire avec le conducteur.
 
@@ -56,4 +56,4 @@ Si des conflits sont listés, examinez-les. Pour continuer malgré tout, cliquez
 
 8. L’itinéraire validé est publié dans l’application mobile.
 
-<figure><img src="../.gitbook/assets/image (952).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_cuI59YIw2a.png" alt=""><figcaption></figcaption></figure>
