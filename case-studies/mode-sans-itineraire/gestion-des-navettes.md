@@ -12,7 +12,7 @@ La gestion des navettes vous permet d'organiser et de nommer les ressources de v
 1. Connectez-vous à votre compte.
 2. Accédez au menu **Configuration**.
 
-<figure><img src="../../.gitbook/assets/NR 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_L0c9mMPK0u.png" alt=""><figcaption></figcaption></figure>
 
 **Aperçu de la fonctionnalité**
 
@@ -27,32 +27,29 @@ La gestion des navettes vous permet d'organiser et de nommer les ressources de v
 
 1. Accédez à **Configuration**.
 
-<figure><img src="../../.gitbook/assets/image (941).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_L0c9mMPK0u (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Cliquez sur **Champs personnalisés**.
 3. Cliquez sur l'**icône crayon** à côté du nom du champ navette.
 4. Modifiez la liste des noms de navettes selon vos besoins.
 5. Cliquez sur **Enregistrer**.
 
-<figure><img src="../../.gitbook/assets/NR 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_iuBWjOKbAA.png" alt=""><figcaption></figcaption></figure>
 
 **Comment faire : Affecter des navettes aux missions**
 
 1. Accédez à **Missions**.
 2. Cochez les cases des missions que vous souhaitez mettre à jour.
 
-<figure><img src="../../.gitbook/assets/NR 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_bgGvS2vGn7.png" alt=""><figcaption></figcaption></figure>
 
 3. Cliquez sur **Actions**.
 4. Cliquez sur **Modification en masse**.
-
-<figure><img src="../../.gitbook/assets/NR 8.png" alt=""><figcaption></figcaption></figure>
-
 5. Cliquez sur le menu déroulant à côté de **Noms des navettes**.
 6. Sélectionnez un nom de navette dans la liste.
 7. Cliquez sur **Enregistrer**.
 
-<figure><img src="../../.gitbook/assets/image (943).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_LlZ5fNFAem.png" alt=""><figcaption></figcaption></figure>
 
 **Conseils de productivité**
 
