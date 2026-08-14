@@ -17,20 +17,17 @@ Survey Creator / Form Builder est un outil de conception visuelle qui vous perme
 * Exécution de mission – Remplie par le livreur pendant la livraison ou l’enlèvement. Suit les étapes de livraison et surveille l’avancement en temps réel.
 * Fin de tournée – Remplie par le livreur après son retour à l’agence à la fin de la journée. Fournit des informations sur l’état du véhicule après la tournée, utiles pour la maintenance et la planification opérationnelle.
 
-<figure><img src=".gitbook/assets/msedge_QMKrVjzTFr.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1014).png" alt=""><figcaption></figcaption></figure>
 
 4. Saisissez l’identifiant et le nom de l’enquête, sélectionnez le type d’enquête dans la liste déroulante, définissez le statut sur Actif et activez l’option Stocker toutes les réponses pour enregistrer les résultats de l’enquête.
 
-<figure><img src=".gitbook/assets/msedge_jgaYNJYC1o.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1015).png" alt=""><figcaption></figcaption></figure>
 
 5. Les enquêtes peuvent contenir une ou plusieurs pages. Chaque page peut inclure des panneaux et des questions. Les panneaux regroupent les questions et peuvent également contenir des panneaux imbriqués pour une organisation structurée.
-
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
-
 6. Pour obtenir des निर्देश détaillés sur la création d’une enquête, consultez la documentation : [Créer une enquête simple](https://surveyjs.io/form-library/documentation/design-survey/create-a-simple-survey)
 7. Une fois l’enquête terminée, cliquez sur Enregistrer pour la créer.
 
-<figure><img src=".gitbook/assets/msedge_naD6MPQ27R.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1016).png" alt=""><figcaption></figcaption></figure>
 
 8. La page Configurer les enquêtes affichera toutes les enquêtes créées dans le système.
 
@@ -51,7 +48,7 @@ Pour les sous-traitants
 
 4. Lorsque vous êtes connecté en tant que sous-traitant, la création d’une mission via l’assistant affichera l’enquête de création de mission, qui devra être remplie avant de continuer.
 
-<figure><img src=".gitbook/assets/image (970).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1017).png" alt=""><figcaption></figcaption></figure>
 
 Pour le sous-statut
 
@@ -67,7 +64,7 @@ Pour le sous-statut
 
 5. Lorsque vous êtes connecté en tant que transporteur ou livreur sous-sous-traitant, la tentative d’exécution d’une livraison/d’un enlèvement afficheral’enquête, qui devra être remplie avant de continuer.
 
-<figure><img src=".gitbook/assets/image 7 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1019).png" alt=""><figcaption></figcaption></figure>
 
 Analyse des réponses à l’enquête
 
@@ -84,4 +81,4 @@ Analyse des réponses à l’enquête
 
 6. Consultez et analysez les réponses aux enquêtes en temps réel.
 
-<figure><img src=".gitbook/assets/Image 8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1021).png" alt=""><figcaption></figcaption></figure>
