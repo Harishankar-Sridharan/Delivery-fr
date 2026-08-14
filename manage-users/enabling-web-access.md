@@ -21,7 +21,7 @@
 
        * Le **ID de connexion** doit être au format e-mail valide (par ex. : user@example.com)
 
-       <figure><img src="../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/q1LVmqe1Y4.png" alt=""><figcaption></figcaption></figure>
 
 * Définissez le **État de l’utilisateur** sur **Oui** ou **Non**, selon les besoins.
 * Rôles et droits d’accès :
