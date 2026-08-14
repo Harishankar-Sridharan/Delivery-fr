@@ -21,14 +21,14 @@ Utilisez les étapes suivantes pour enregistrer un sous-traitant
 4. Le transporteur peut également saisir des informations supplémentaires telles que la zone et les autorisations. Une fois l’adresse du sous-traitant renseignée, la carte mettra automatiquement en évidence sa localisation géographique.
 5. Cliquez sur Enregistrer pour ajouter le sous-traitant au système de gestion des livraisons.
 
-<figure><img src="../.gitbook/assets/msedge_9H2mDnpUkr.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (947).png" alt=""><figcaption></figcaption></figure>
 
 6. Une notification confirmera que le sous-traitant a été ajouté avec succèss.
 
-<figure><img src="../.gitbook/assets/msedge_gtYVztNcRV.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (985).png" alt=""><figcaption></figcaption></figure>
 
 7. Autrement, les sous-traitants peuvent être importés en masse via un fichier Excel, ce qui permet de gagner du temps et de l’effort lors de l’ajout de plusieurs entrées.
 
-<figure><img src="../.gitbook/assets/msedge_hvbObGyYly.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1004).png" alt=""><figcaption></figcaption></figure>
 
 Après l’enregistrement, le transporteur peut créer l’accès du sous-traitant depuis le module Configuration. Cela permet aux sous-traitants de se connecter au système et d’effectuer leurs tâches.
