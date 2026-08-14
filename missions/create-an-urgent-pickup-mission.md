@@ -16,7 +16,7 @@ Cette fonctionnalité permet d’insérer une mission de ramassage imprévue dan
 
 **Attribuer après**: ajoute le ramassage comme prochain arrêt.
 
-<figure><img src="../.gitbook/assets/Image 20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_XPDasfjvem.png" alt=""><figcaption></figcaption></figure>
 
 6. Attribuer à **la fin**: ajoute le ramassage à la fin de l’itinéraire actuel.
 7. Cliquez sur **Remplacer**
