@@ -26,4 +26,4 @@
 
 Le mot de passe doit contenir au minimum 8 caractères, dont au moins une lettre majuscule, une lettre minuscule et un chiffre.
 
-<figure><img src="../.gitbook/assets/msedge_LfUD1t7N8Z.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_i50688rYhV.png" alt=""><figcaption></figcaption></figure>
