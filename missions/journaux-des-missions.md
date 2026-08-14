@@ -21,7 +21,7 @@ Le journal de mission fournit une piste d’audit complète de toutes les activi
 * **Indicateur de scan manuel**
 * **Données supplémentaires de preuve d’exécution**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Afficher les détails d’un événement
 
@@ -35,7 +35,7 @@ Sélectionnez _En savoir plus_ pour afficher des informations supplémentaires s
 * Statut du scan manuel
 * Détails opérationnels supplémentaires
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Consulter la preuve de livraison
 

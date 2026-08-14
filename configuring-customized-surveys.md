@@ -25,7 +25,7 @@ Survey Creator / Form Builder est un outil de conception visuelle qui vous perme
 
 5. Les enquêtes peuvent contenir une ou plusieurs pages. Chaque page peut inclure des panneaux et des questions. Les panneaux regroupent les questions et peuvent également contenir des panneaux imbriqués pour une organisation structurée.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Pour obtenir des निर्देश détaillés sur la création d’une enquête, consultez la documentation : [Créer une enquête simple](https://surveyjs.io/form-library/documentation/design-survey/create-a-simple-survey)
 7. Une fois l’enquête terminée, cliquez sur Enregistrer pour la créer.

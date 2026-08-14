@@ -15,7 +15,7 @@ Cependant, avant que les sous-traitants puissent créer des itinéraires optimis
 
 3. Une fois ces autorisations accordées, les sous-traitants peuvent se connecter et utiliser les fonctionnalités d’optimisation d’itinéraires.
 
-<figure><img src="../.gitbook/assets/msedge_65iXU89krF.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Lancer l’optimisation avec la connexion sous-traitant
 
@@ -23,7 +23,7 @@ Lancer l’optimisation avec la connexion sous-traitant
 2. Accédez à l’onglet Missions.
 3. Sélectionnez les missions à optimiser, cliquez sur le bouton Actions, puis choisissez Optimiser.
 
-<figure><img src="../.gitbook/assets/msedge_BSlHRdVJ1F.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 4. Définissez le périmètre de l’optimisation en sélectionnant la plage de dates, l’équipe et les véhicules, puis cliquez sur Optimiser.
 

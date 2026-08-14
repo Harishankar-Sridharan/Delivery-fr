@@ -26,7 +26,7 @@ Pour configurer Nomadia Delivery pour le portail de réservation de rendez-vous,
 
 7. Enfin, cliquez sur **Enregistrer** pour confirmer le planning.
 
-<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_gpZXy4CTjY.png" alt=""><figcaption></figcaption></figure>
 
 Pour mettre à jour ou supprimer un planning existant, suivez les étapes suivantes
 
@@ -47,7 +47,7 @@ Pour réserver un créneau via le portail de réservation de rendez-vous, suivez
 
 3. Ensuite, cliquez sur le bouton « **Réservation de rendez-vous** » pour afficher les propositions de créneaux disponibles.
 
-<figure><img src="../../.gitbook/assets/msedge_mYe3YSXVab.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1010).png" alt=""><figcaption></figcaption></figure>
 
 Veuillez noter que la fonctionnalité « **Réservation de rendez-vous** » est disponible uniquement pour les missions standard de collecte ou de livraison. Elle sera désactivée pour les types de mission suivants :
 

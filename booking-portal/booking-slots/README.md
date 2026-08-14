@@ -7,7 +7,7 @@ Pour configurer Nomadia Delivery pour le portail de réservation de rendez-vous,
 1. Ouvrez l'application Nomadia Delivery et accédez à l'onglet **Configuration** .
 2. Dans le menu déroulant, sélectionnez **Configurer les pages d’expérience client**.
 
-<figure><img src="../../.gitbook/assets/msedge_x3KRMo7JnW.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_jR1hCuUmoz.png" alt=""><figcaption></figcaption></figure>
 
 3. Choisissez le **Ajouter un élément de menu de livraison programmée**.
 4. Ouvrez le **Onglet du portail de réservation**.
@@ -15,7 +15,7 @@ Pour configurer Nomadia Delivery pour le portail de réservation de rendez-vous,
 6. Configurez les champs que vous souhaitez afficher au client final afin de recueillir les informations nécessaires à la bonne livraison. Par défaut, Nom et Adresse sont obligatoires, car ils sont essentiels pour localiser le client.
 7. Cliquez sur **Ajouter un champ** pour inclure des champs supplémentaires.
 
-<figure><img src="../../.gitbook/assets/msedge_Sq2ZyU7bHc.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 8. Spécifiez le **nom du champ** et sélectionnez la **type de champ** **(Texte, Case à cocher, Texte multiligne, Liste de valeurs, Nombre ou date).**
 
@@ -27,11 +27,11 @@ Exemple : Nom du champ – Code d’accès (le code dont le livreur a besoin pou
 
 10. Cliquez sur **Ajouter** pour inclure le champ personnalisé dans le formulaire.
 
-<figure><img src="../../.gitbook/assets/msedge_y01WBjigTQ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_DUQJPWT4Hd.png" alt=""><figcaption></figcaption></figure>
 
 Le champ apparaîtra désormais dans la liste des données à collecter auprès du client.
 
-<figure><img src="../../.gitbook/assets/msedge_39JaBqN6U9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_1j1eBgSEzb.png" alt=""><figcaption></figcaption></figure>
 
 Pour intégrer le portail de réservation au site web du sous-traitant, les transporteurs doivent suivre ces étapes : Copier l’exemple de code depuis le portail de réservation.
 
