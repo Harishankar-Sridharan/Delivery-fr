@@ -6,13 +6,13 @@ Les transporteurs peuvent attribuer des utilisateurs à chaque sous-traitant afi
 
 1. Ouvrez l’application Nomadia Delivery et accédez à Configuration > Gérer les utilisateurs.
 
-<figure><img src="../.gitbook/assets/msedge_M0b0oivb21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1006).png" alt=""><figcaption></figcaption></figure>
 
 2. Cliquez sur le bouton Action et sélectionnez Ajouter.
 
-<figure><img src="../.gitbook/assets/msedge_kagiexbwb4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1005).png" alt=""><figcaption></figcaption></figure>
 
-3. Cliquez sur OK pour créer un nouvel utilisateur.
+2. Cliquez sur OK pour créer un nouvel utilisateur.
 
 <figure><img src="../.gitbook/assets/msedge_bTtRQe3OEy.png" alt=""><figcaption></figcaption></figure>
 
