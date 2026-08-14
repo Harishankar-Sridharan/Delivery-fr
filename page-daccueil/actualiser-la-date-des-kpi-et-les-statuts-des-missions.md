@@ -8,4 +8,4 @@ Depuis la **page d’accueil**,
 2. Repérez l’ _**Actualiser les KPI**_ icône située à côté de la date et de l’heure de la dernière mise à jour.
 3. Cliquez sur le **Actualisez les KPI** icône pour mettre à jour les données affichées avec les informations les plus récentes.
 
-<figure><img src="../.gitbook/assets/msedge_8gVhfVUMYb.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_RocVgRuCSH.png" alt=""><figcaption></figcaption></figure>
