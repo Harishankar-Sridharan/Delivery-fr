@@ -12,7 +12,7 @@ Configurez les paramètres iFrame pour les sous-traitants dans Nomadia Delivery 
 1. Accédez au menu **Sous-traitants**.
 2. Localisez la liste des utilisateurs à l'écran.
 
-<figure><img src="../../../.gitbook/assets/NR 7 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/msedge_TtVvKsmzRc.png" alt=""><figcaption></figcaption></figure>
 
 **Aperçu de la fonctionnalité**
 
@@ -25,17 +25,17 @@ Configurez les paramètres iFrame pour les sous-traitants dans Nomadia Delivery 
 
 1. Cliquez sur l'**icône crayon** à côté de l'utilisateur.
 
-<figure><img src="../../../.gitbook/assets/image (944).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/msedge_Kk4GiYV9JF.png" alt=""><figcaption></figcaption></figure>
 
 2. Remplacez l'URL existante par votre URL machine ou votre ID de mission.
 
-<figure><img src="../../../.gitbook/assets/NR 10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/msedge_8cwTZM4XI5.png" alt=""><figcaption></figcaption></figure>
 
 3. Définissez la valeur de la **largeur iFrame**.
 4. Définissez la valeur de la **hauteur iFrame**.
 5. Cliquez sur **Enregistrer** pour sauvegarder les modifications.
 
-<figure><img src="../../../.gitbook/assets/NR 10 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/msedge_9YGSctynDb.png" alt=""><figcaption></figcaption></figure>
 
 **Conseils de productivité**
 
