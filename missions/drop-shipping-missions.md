@@ -69,23 +69,23 @@ Les livraisons ne sont autorisées qu’après la fin de tous les enlèvements, 
 
 6. Dans le panneau «**Panneau Itinéraires**», sélectionnez les itinéraires que vous souhaitez valider, ouvrez le menu «**Actions**», puis cliquez sur **Valider**.
 
-<figure><img src="../.gitbook/assets/Image 45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_i4oANsWWMg.png" alt=""><figcaption></figcaption></figure>
 
 7. Cliquez sur ‘**OK**» pour confirmer la validation.
 
-<figure><img src="../.gitbook/assets/image 46.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_7Zm4IsaCyn.png" alt=""><figcaption></figcaption></figure>
 
 8. Après validation, une notification de confirmation s’affiche.
 
-<figure><img src="../.gitbook/assets/image 47.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_FMw8vE518V.png" alt=""><figcaption></figcaption></figure>
 
 9. En bas de la fenêtre contextuelle, activez le commutateur «**Publier dans l’application mobile**» si vous souhaitez partager l’itinéraire avec le chauffeur.
 
-<figure><img src="../.gitbook/assets/image 48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_WpOqBJTK8M.png" alt=""><figcaption></figcaption></figure>
 
 9. Si des conflits surviennent, la fenêtre contextuelle répertorie tous les problèmes détectés. Dans ce cas, cliquez sur «**Forcer**» pour poursuivre la validation.
 10. L’itinéraire validé avec les missions de drop-shipping est ensuite publié dans l’application mobile.
 
-<figure><img src="../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_SQp4BUiJVD.png" alt=""><figcaption></figcaption></figure>
 
 Les transporteurs peuvent créer des itinéraires qui partent de l’agence, récupèrent les colis directement au niveau du donneur d’ordre (fournisseur) et les livrent aux clients finaux. Contrairement aux missions de cross-docking, ces itinéraires ne nécessitent pas de retour à l’agence une fois les enlèvements terminés.<br>
