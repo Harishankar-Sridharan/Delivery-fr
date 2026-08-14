@@ -19,4 +19,4 @@ Ce processus s’applique uniquement lorsque l’adresse de ramassage ou l’adr
 9. La localisation mise à jour est affichée sur la carte, ainsi qu’une fenêtre contextuelle de confirmation indiquant **Nouvelle localisation validée** s’affiche.
 10. Une fois la validation de l’adresse terminée, cliquez sur **Importer** pour importer les missions.
 
-<figure><img src="../../.gitbook/assets/image 52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1023).png" alt=""><figcaption></figcaption></figure>
