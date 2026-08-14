@@ -22,13 +22,13 @@ Depuis la page Missions
 
 7. Associez soit le champ d’adresse, soit les champs de latitude et de longitude pour les emplacements de mission.
 
-<figure><img src="../../.gitbook/assets/msedge_BpiI6S3nX4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_UdzHwQxtRg.png" alt=""><figcaption></figcaption></figure>
 
 8. Cliquez sur Importer
 
-<figure><img src="../../.gitbook/assets/image (377).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_29Smc9JRUk.png" alt=""><figcaption></figcaption></figure>
 
-9. Les missions seront importées avec succès.
+8. Les missions seront importées avec succès.
 
 <figure><img src="../../.gitbook/assets/msedge_aAWKn76PYy.png" alt=""><figcaption></figcaption></figure>
 
