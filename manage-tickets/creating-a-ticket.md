@@ -22,7 +22,7 @@ Pour répondre à un ticket, le transporteur doit suivre ces étapes :
 
 2. Cliquez sur le **lien** pour ouvrir l’Éditeur de mission et consulter les détails du ticket.
 
-<figure><img src="../.gitbook/assets/image 123.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1026).png" alt=""><figcaption></figcaption></figure>
 
 3. Alternativement, les transporteurs peuvent repérer les missions avec des tickets actifs en appliquant le filtre Ticket ouvert = Oui dans l’onglet Missions et l’enregistrer comme préfiltre pour un suivi continu
 
@@ -30,7 +30,7 @@ Pour répondre à un ticket, le transporteur doit suivre ces étapes :
 
 4. Pour répondre, ouvrez le **Aide** onglet, saisissez votre réponse dans la zone de message, puis cliquez sur **Répondre** pour envoyer la réponse.
 
-<figure><img src="../.gitbook/assets/image (1000).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1027).png" alt=""><figcaption></figcaption></figure>
 
 Pour répondre à un ticket, le prestataire doit suivre ces étapes
 
