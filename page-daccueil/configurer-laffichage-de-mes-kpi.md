@@ -7,7 +7,7 @@ Depuis la **Page d'accueil,**
 1. Cliquez sur le **Icône de compte** située dans le coin supérieur droit de l'écran.
 2. Sélectionnez **Mes préférences** dans le menu déroulant
 
-<figure><img src="../.gitbook/assets/msedge_YORaOwhTfy.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (946).png" alt=""><figcaption></figcaption></figure>
 
 3. Choisissez le **Tableau de bord** depuis le tableau de bord personnalisé de la page d'accueil.
 
@@ -22,6 +22,5 @@ Depuis la **Page d'accueil,**
 
 <figure><img src="../.gitbook/assets/msedge_3SqAljufsj.png" alt=""><figcaption></figcaption></figure>
 
-<br>
-
+\
 <br>
