@@ -22,7 +22,7 @@ Pour organiser les groupes de champs personnalisés dans l’ordre souhaité :
 * Dans Configuration, sélectionnez l’ **Missions** .
 * Cette section affiche tous les paramètres liés aux missions.
 
-<figure><img src="../.gitbook/assets/msedge_CdE4cKwwYf.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1022).png" alt=""><figcaption></figcaption></figure>
 
 **Cliquez sur Actions → Ajouter**
 
