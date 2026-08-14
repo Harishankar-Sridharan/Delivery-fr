@@ -58,14 +58,14 @@ Cette fonctionnalité vous permet de communiquer directement avec les sous-trait
 3. Cliquez sur **Envoyer le message uniquement**.
 4. Vérifiez la fenêtre contextuelle « Le sous-traitant a été assigné avec succès ».
 
-<figure><img src="../../../.gitbook/assets/NR 18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/msedge_600YavlQSK.png" alt=""><figcaption></figcaption></figure>
 
 **Quitter l'interface**
 
 1. Actualisez la page une fois les tâches terminées.
 2. Fermez la fenêtre contextuelle.
 
-<figure><img src="../../../.gitbook/assets/NR 20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/msedge_MRvQQtkvia.png" alt=""><figcaption></figcaption></figure>
 
 **Conseils de productivité**
 
