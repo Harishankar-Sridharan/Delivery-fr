@@ -57,12 +57,10 @@ Pour configurer des recommandations pour Nomadia Delivery, suivez les étapes ci
 4. Activez le bouton pour activer la liste de recommandations.
 5. Cliquez sur Ajouter pour créer la liste de recommandations de documents.
 
-
-
 Les listes de recommandations de documents s’affichent dans le tableau.
 
 <figure><img src="../.gitbook/assets/msedge_cuVyjJ63rW.png" alt=""><figcaption></figcaption></figure>
 
 Lors de la création ou de la modification d’une mission, la liste de recommandations de documents s’affiche en fonction du pays du destinataire (pays de livraison). Cela aide les utilisateurs à identifier les documents qui doivent être téléversés afin de respecter les exigences légales lors du transport de missions d’un pays à un autre.
 
-<figure><img src="../.gitbook/assets/image 100.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1025).png" alt=""><figcaption></figcaption></figure>
