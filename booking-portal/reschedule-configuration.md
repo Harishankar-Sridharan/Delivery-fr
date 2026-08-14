@@ -7,17 +7,17 @@ Pour configurer le bouton de replanification dans les communications par e-mail,
 1. Lancez l’application Nomadia Delivery et allez dans l’onglet **Configuration** .
 2. Dans le menu déroulant, sélectionnez **Configurez les pages d’expérience client.**
 
-<figure><img src="../.gitbook/assets/msedge_RW8hqKr71i.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1011).png" alt=""><figcaption></figcaption></figure>
 
 3. Cliquez sur le **Avant la livraison** élément de menu.
 4. Activez le **Reprogrammer une livraison** pour activer le **replanifier** bouton dans **les communications par e-mail avec les clients**
 
-<figure><img src="../.gitbook/assets/msedge_pDSrgbLDlv.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1012).png" alt=""><figcaption></figcaption></figure>
 
 5. Définissez la validité du lien de replanification à l’aide de l’option Désactiver avant la livraison. Vous pouvez configurer le lien pour qu’il soit actif au maximum 12 heures avant la livraison et au minimum 3 heures avant la livraison, en fonction de vos besoins opérationnels.
 6. Cliquez sur **Enregistrer** pour appliquer et enregistrer la configuration de replanification.
 
-<figure><img src="../.gitbook/assets/image (962).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1013).png" alt=""><figcaption></figcaption></figure>
 
 Pour configurer le lien de replanification dans les communications par e-mail avec les clients, suivez ces étapes :
 
