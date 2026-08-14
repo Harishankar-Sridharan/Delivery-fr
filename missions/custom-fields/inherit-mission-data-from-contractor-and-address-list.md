@@ -4,7 +4,7 @@ Pour activer l’héritage des champs personnalisés depuis le sous-traitant et 
 
 Cette fonctionnalité accélère la création des missions en héritant automatiquement des données des champs personnalisés, réduisant ainsi la saisie manuelle.
 
-1. Ouvrez l'application Nomadia Delivery et accédez à l'onglet **Configuration.**&#x20;
+1. Ouvrez l'application Nomadia Delivery et accédez à l'onglet **Configuration.**
 
 <figure><img src="../../.gitbook/assets/msedge_YRRhlFp1Dw.png" alt=""><figcaption></figcaption></figure>
 
@@ -30,7 +30,7 @@ Cette fonctionnalité accélère la création des missions en héritant automati
 
 Depuis l’en-tête principal, cliquez sur « **Sous-traitants** » page
 
-<figure><img src="../../.gitbook/assets/msedge_8OotbAgtHe.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/msedge_3J4XsvSuJn.png" alt=""><figcaption></figcaption></figure>
 
 Cliquez sur le bouton « **crayon** » pour modifier le sous-traitant.
 
