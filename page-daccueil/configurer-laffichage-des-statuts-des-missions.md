@@ -13,4 +13,4 @@ Depuis la **Page d'accueil**,
 
 5. Votre page d'accueil affichera les KPI sélectionnés.
 
-<figure><img src="../.gitbook/assets/msedge_iK7kZr8IHw.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (945).png" alt=""><figcaption></figcaption></figure>
