@@ -5,7 +5,7 @@ Le nouvel utilisateur du sous-traitant peut désormais accéder à l’applicati
 1. Ouvrez l’application Nomadia Delivery et accédez à l’onglet Missions.
 2. Sélectionnez les missions que vous souhaitez attribuer dans le tableau des missions, cliquez sur le bouton Actions, puis choisissez Attribuer à un sous-traitant.
 
-<figure><img src="../.gitbook/assets/msedge_kRYGHppeoD.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1007).png" alt=""><figcaption></figcaption></figure>
 
 3. Dans la liste, sélectionnez le sous-traitant souhaité pour attribuer les missions, puis cliquez sur Appliquer.
 
@@ -22,10 +22,10 @@ Utilisez les étapes suivantes pour filtrer les missions attribuées aux sous-tr
 3. Dans la liste déroulante Attribué à, sélectionnez le sous-traitant souhaité.
 4. Cliquez sur Appliquer pour afficher les missions attribuées au sous-traitant sélectionné.
 
-<figure><img src="../.gitbook/assets/msedge_jJwnKypUJU.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1008).png" alt=""><figcaption></figcaption></figure>
 
 5. L’onglet des missions affichera désormais uniquement les missions attribuées au sous-traitant choisi.
 
-<figure><img src="../.gitbook/assets/msedge_H1aLP4euOj.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1009).png" alt=""><figcaption></figcaption></figure>
 
 La fonctionnalité de gestion des sous-traitants offre aux transporteurs les outils nécessaires pour externaliser efficacement les opérations logistiques. En permettant la configuration et la gestion des sous-traitants, la création et l’attribution de planificateurs et de conducteurs sous-traitants, l’attribution de missions, la création d’itinéraires pour les sous-traitants, l’affectation automatique basée sur les zones, l’autonomie des sous-traitants et le suivi de l’avancement en temps réel, cette fonctionnalité garantit un processus de gestion logistique rationalisé et efficace.
