@@ -77,7 +77,7 @@ L’ajout d’une mission permet aux utilisateurs de créer une mission en séle
 
 2. Cliquez sur **Ajouter** depuis le **Actions** menu \&#xNAN;_Cela ouvre l’écran de création de mission._
 
-<figure><img src="../../.gitbook/assets/msedge_0IicBrIHZa.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1024).png" alt=""><figcaption></figcaption></figure>
 
 3. Sélectionnez **Type de mission**, **Agence**\
    \&#xNAN;_(Enlèvement → Livraison ou Livraison → Enlèvement selon votre besoin)_\
@@ -163,8 +163,6 @@ Depuis la **Page Missions**
 5. Cliquez sur **Valider**
 
 <figure><img src="../../.gitbook/assets/image (993).png" alt=""><figcaption></figcaption></figure>
-
-
 
 6. Les champs d’adresse seront mappés avec succès
 
